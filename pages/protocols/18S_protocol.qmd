@@ -1,0 +1,42 @@
+---
+title: "18S_protocol"
+format: html
+---
+
+### PCR specifications
+
+**Target Region and Size**: V9 region (\~145 bp)
+
+**Template Concentration**: 30 ng
+
+**Enzyme and Master mix**: TaKaRa LA Taq (Cat. No. RR002A)
+
+### **Primers**
+
+| ID | Primer sequence | Length |
+|----------------|----------------------------------------|----------------|
+| 18S_1391F | <font color="blue">TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</font>GTACACACCGCCCGTC | 49 |
+| 18S_EukBr | <font color="red">GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</font>TGATCCTTCTGCAGGTTCACCTAC | 58 |
+
+### **PCR Mixture**
+
+| Reagents            | Concentration | 1 reaction (25 μL) |
+|---------------------|---------------|--------------------|
+| DNA Template        | 30 ng         | 1 μL               |
+| 10X LA PCR Buffer   | 1X            | 2.5 μL             |
+| MgCl2               | 0.8 mM        | 0.8 μL             |
+| dNTPs               | 0.1 mM        | 1 μL               |
+| Forward Primer      | 0.20 pmol      | 0.5 μL               |
+| Reverse Primer      | 0.20 pmol      | 0.5 μL               |
+| Nuclease Free Water | \-            | 17.6 μL            |
+| Takara LA Taq       | 0.625 U         | 0.1 μL             |
+| Total               | \-            | 25 μL              |
+
+### **PCR Conditions**
+
+| Step | Temperature           | Time                     | Cycle |
+|------|-----------------------|--------------------------|-------|
+| 1    | 95 °C                 | 5 minutes                | 1     |
+| 2    | 95 °C → 57 °C → 72 °C | 30 sec → 30 sec → 30 sec | 30    |
+| 3    | 72 °C                 | 5 minutes                | 1     |
+| 4    | 20 °C                 | ∞                        | \-    |

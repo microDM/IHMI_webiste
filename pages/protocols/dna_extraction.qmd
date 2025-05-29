@@ -1,0 +1,74 @@
+---
+title: "DNA extraction"
+format: html
+---
+
+DNA Extraction is carried out using Stool DNA Isolation Kit (Magnetic bead system; Cat. No. 63100; Norgen Biotek Corp.) with some modifications as follows:
+
+**Notes**:
+
+::: {#notes style="text-align: justify"}
+-   Ensure that all solutions are at room temperature prior to use, and that no precipitates have formed. If necessary, warm the solutions and mix well until the solutions become clear again.
+
+-   Always vortex the Magnetic Bead Suspension before use.
+
+-   Prepare a working concentration of the Solution WN by adding 73 mL of 96 - 100 % ethanol to the supplied bottle containing the concentrated Solution WN. This will give a final volume of 128 mL. The label on the bottle has a box that may be checked to indicate that the ethanol has been added.
+:::
+
+**Procedure**:
+
+Stool Sample Collection and Lysate Preparation
+
+::: {#procedure style="text-align: justify"}
+1.  Stool samples that have been preserved using Norgen’s Stool Nucleic Acid Collection and Preservation Tubes (Cat. No. 63710), add 300 µL of preserved sample to a provided Bead Tube and add 700 µL of Lysis Buffer L. Vortex briefly to mix stool and Lysis Solution.
+
+2.  Add 100 µL of Lysis Additive A and vortex briefly.
+
+3.  Heat at 65 °C for 10 minutes.
+
+4.  Secure the tube in bead beater equipment \[30 Hertz for10 minutes (5 minutes x 2)\].
+
+5.  Centrifuge the tube for 2 minutes at 20,000 × g (\~14,000 RPM).
+
+6.  Transfer up to 600 µL of supernatant to a DNAase-free microcentrifuge tube.
+
+7.  Add 100 µL of Binding Buffer I, mix by inverting the tube a few times, and incubate for 10 minutes on ice.
+
+8.  Spin the lysate for 2 minutes at 20,000 x g (\~14,000 RPM) to pellet any cell debris.
+
+9.  Using a pipette, transfer up to 600 µL of supernatant (avoid contacting the pellet with the pipette tip) into a 96-Well Plate.
+
+10. Add 300 µL of 96-100% ethanol (provided by the user) and 25 µL of Magnetic Bead Suspension (vortex prior to use) to the lysate collected above. Mix by gently pipetting.
+
+11. Incubate at room temperature for 5 minutes.
+:::
+
+**Stool DNA Isolation**
+
+::: {#dna-isolation style="text-align: justify"}
+12. Put the 96-Well Plate on the magnetic plate. Allow to sit for 1 minute.
+
+13. Aspirate and discard supernatant without touching the magnetic beads.
+
+14. Remove the 96-Well Plate from the magnetic plate and gently add 500 µL of Solution WN (ensure ethanol was added). Resuspend by pipetting and incubate at room temperature for 1 minute.
+
+15. Place the 96-Well Plate on the magnetic plate and allow to sit for 1 minute.
+
+16. Aspirate and discard supernatant without touching the magnetic beads.
+
+17. Remove the 96-Well Plate from the magnetic plate and gently add 500 µL of freshly prepared 70% ethanol. Resuspend by vortexing or pipetting and incubate at room temperature for 1 minute.
+
+18. Place the 96-Well Plate on the magnetic plate and allow to sit for 1 minute.
+
+19. Aspirate and discard supernatant without touching the magnetic beads.
+
+20. Repeat Steps 17 - 19 for a second wash step (Remove as much of the 70% ethanol in the sample plate as possible by pipetting).
+
+21. Incubate the 96-Well Plate at 65˚C for 5 minutes to dry the magnetic beads.
+
+22. Add 80 µL of Elution Buffer B. Mix by pipetting and incubate at 65˚C for 10 minutes.
+
+23. Briefly mix and place the 96-Well Plate on the magnetic plate and allow to sit for 1 minute.
+
+24. Carefully transfer 75 µL of the elution to a 96-Well Elution Plate without touching the magnetic beads. Seal the plate. The purified DNA sample may be stored at 4 °C for a few days. It is recommended that samples be placed at -20 °C for long-term storage.
+:::

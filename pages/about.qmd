@@ -1,0 +1,62 @@
+---
+title: "About"
+format: 
+  html: 
+    toc: true
+---
+
+::: {#about style="text-align: justify"}
+In the last decade preliminary analyses of microbiome influence on human health by several global studies (NIH Human Microbiome Project, British Gut Project, Canadian Microbiome Initiative, Dutch Microbiome Project, Finnish HELMi Cohort and such others) have opened several conjectures (iHMP, 2014; Del Savio et al., 2017; Korpela et al., 2019; Lopera-Maya et al., 2022; and Gacesa et al., 2022). Interestingly, these studies have also indicated that microbiota is sensitive to several intrinsic and extrinsic factors including but not limited to host genetics, dietary habits, age, geographic location, lifestyle, ethnicity (Yatsunenko et al. 2012; David et al. 2014; Bonder et al. 2016).
+:::
+
+### Vision
+
+::: {#vision style="text-align: justify"}
+Bridging the gap in deciphering the global gut microbiome signatures of health
+
+or
+
+Expanding the human microbiome reference map
+:::
+
+### Mission
+
+::: {#mission style="text-align: justify"}
+The Indian Human Microbiome Initiative (IHMI) project is taxonomic and functional cartography of the unparalleled ethnic and dietary spectrum associated Indian Gut Microbiome
+
+or
+
+The Indian Human Microbiome Initiative (IHMI) project is a pioneering effort to characterize microbial diversity across ethnically and dietarily distinct communities
+:::
+
+### Need for mapping Indian Microbiome
+
+::: {#need style="text-align: justify"}
+-   India has huge diet, lifestyle and ethnic diversity and thus is a perfect model to study association of ‘Genetics, biogeography, lifestyle, ethnicity and diet with Microbiome’.
+
+-   Increasing the success of FMT in Indian patients
+
+-   Microbiota based metabolic disease models developed in one location fail in other location and hence cannot be extrapolated (He et al., 2018).
+
+-   Correlating ‘-omics’ based gut microbiome concepts with traditional Indian Ayurvedic concepts.
+
+-   Characterization of microbiome from autochthonous tribal populations which are not influenced by modernization and changing lifestyle may lead to identification of many unique and novel microbes.
+
+-   Does Indian population have a new enterotype?
+:::
+
+### Key Gaps/Questions
+
+::: {#gaps style="text-align: justify"}
+-   Determining the baseline gut microbiome data of Indian endogamous groups having unparalleled varied dietary and lifestyle patterns.
+
+-   What are the unique features of microbiota of Indian population? Is it possible to define the core Indian microbiome or their will be several core Indian Microbiome(s) ?
+
+-   How microbiota changes across the population of India including tribal population living in their natural habitat and following traditional practices?
+
+-   How does the diet, lifestyle and age influence the gut microbial community composition and structure?
+
+-   Is there any association between microbiome and three distinct Ayurvedic Prakriti types?
+
+-   Understanding the temporal variations in gut microbiome.
+:::

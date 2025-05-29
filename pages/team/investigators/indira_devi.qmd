@@ -1,0 +1,32 @@
+---
+title: "Dr. Sarangthem Indira Devi"
+description: "Scientist-D, Institute of Bioresources and Sustainable Development (IBSD)"
+image: ../img/indira.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:indira.ibsd@nic.in"
+      text: Mail
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.com/citations?user=EkoKSK8AAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Working on the exploration and diversity analysis of bacteria and fungi including wild mushroom from different unique ecological niches of NE India for agricultural, therapeutic and nutraceutical applications. She has characterized few antimicrobial microbial peptides against antimicrobial resistant (AMR) and MDR pathogens and their genomic and proteomic analysis & insights into its antimicrobial characteristics have been well studied for the development of antimicrobial drug. Her team also works on antimicrobial bioactive phytocompounds derived from traditionally used medicinal plants against Multidrug Resistant enteric bacteria (MDR) to determine the responses and antimicrobial activities, synergistic effects with conventional antibiotics, mechanism of action based on efflux pump protein, modulation of host immune response, inhibition of biofilm formation etc. Nutraceutical and antimicrobial properties of wild edible mushrooms from Manipur have been studied. Genomics and proteomics analysis has been carried out to identify the gene pathway and identify biosynthetic gene clusters having PGPR & biocontrol activity.
+:::

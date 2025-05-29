@@ -1,0 +1,32 @@
+---
+title: "Dr. Vineet Ahuja"
+description: "Professor, All India Institute of Medical Sciences, New Delhi"
+image: ../img/vineet.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:vins_ahuja@hotmail.com"
+      text: Mail
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=IxwcDicAAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Dr. Vineet Ahuja MD, DM, MNAMS is currently working as Professor of Gastroenterology at All India Institute of Medical Sciences (AIIMS), New Delhi. He did MD (Internal Medicine) from Post Graduate Institute of Medical Education & Research (PGIMER), Chandigarh and DM (Gastroenterology) from Post Graduate Institute of Medical Education & Research (PGIMER), Chandigarh.
+:::

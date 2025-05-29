@@ -1,0 +1,41 @@
+---
+title: "Indian Human Microbiome Initiative (IHMI)"
+format:
+  html:
+    toc: false
+---
+
+::: {#overview .main-content style="text-align: justify"}
+The Indian Human Microbiome Initiative (IHMI) project aims at comprehensive characterization of human-associated microbes in correlation with diverse dietary habits from 17 distinct Indian endogamous groups and tribal populations which are not much influenced by modern lifestyle. The two-day sampling protocol begins with preliminary screening of the participants to determine eligibility. Individuals meeting the inclusion criteria proceeded to provide written informed consent. Subsequently, stool samples were collected the next day along with detailed metadata. The implementation of a robust sampling framework, comprehensive metadata collection, and detailed documentation of demographic, diet, and lifestyle variables resulted in collection of stool samples from **4,080 healthy individuals**.
+:::
+
+::::: row
+::: {.column style="display: flex; align-items: center; justify-content: center;"}
+```{r}
+#| label: sidebar-numbers
+#| results: 'asis'
+#| echo: false
+library(kableExtra)
+
+  labels <- c("#Samples", "#Communities", "#Amplicon Libraries", "#Metagenomes", "#Human Genomes", "#HQ-MAGs")
+  values <- c("4,080", "17", "10,125", "658", "61", "4,990")
+  colors <- c("#1E88E5", "#43A047", "#F4511E", "#8E24AA", "#f54242", "#a742f5")
+
+  cards <- mapply(function(label, value, color) {
+    paste0(
+      "<div class='metric-card'>",
+      text_spec(value, color = "white", background = color, bold = TRUE, font_size = 20),
+      "<br>",
+      text_spec(label, color = "#333", font_size = 15, bold = T),
+      "</div>"
+    )
+  }, labels, values, colors)
+
+  cat("<div class='metric-row'>", paste(cards, collapse = ""), "</div>")
+```
+:::
+
+::: column
+![](assets/img/sampling_sites.jpeg){width="400"}
+:::
+:::::

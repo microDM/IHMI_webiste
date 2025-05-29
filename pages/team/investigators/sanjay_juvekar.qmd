@@ -1,0 +1,34 @@
+---
+title: "Sanjay Juvekar"
+description: "Vadu Rural Health Program, KEM Hospital Research Centre Pune"
+image: ../img/sanjay.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:sanjay.juvekar@sanjayjuvekar.org"
+      text: Mail
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.com/citations?user=CfAIfJ8AAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Dr Sanjay Juvekar as a senior scientist has been the Principal Investigator for the study on COPD in India which is collaboration between the Chest Research Foundation and the Imperial College. He also worked as a the Principal Investigator in a multi country collaborative study which is supported by INDEPTH Network for the development of a prototype of data sharing among the demographic surveillance sites in Asia. During the years 1991-1999 Dr Juvekar worked as a research officer at the Foundation for Research in Community Health in Pune, India. He also undertook research activities from 2000-2002 at the Centre for Health Research and Development, The Maharashtra Association of Anthropological Sciences in Pune, India.
+
+Dr Juvekar in 1991 obtained a Master of Science and a Doctor of Philosophy in Anthropology in 2002 from the University of Pune, India. He has authored and coauthored five publications in peer reviewed journals.
+:::

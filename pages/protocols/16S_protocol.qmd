@@ -1,0 +1,42 @@
+---
+title: "16S amplicon protocol"
+format: html
+---
+
+### PCR specifications
+
+**Target Region and Size**: V4 region (\~292 bp)
+
+**Template Concentration**: 30 ng/μL
+
+**Enzyme and Master mix**: TaKaRa LA Taq (Cat. No. RR002A)
+
+### **Primers**
+
+| ID | Primer sequence | Length |
+|-----------------|--------------------------------------|-----------------|
+| V4_515F | <font color="red">TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</font>GTGYCAGCMGCCGCGGTAA | 52 |
+| V4_806R | <font color="blue">GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</font>GGACTACNVGGGTWTCTAAT | 54 |
+
+### **PCR Mixture**
+
+| Reagents            | Concentration | 1 reaction (25 μL) |
+|---------------------|---------------|--------------------|
+| DNA Template        | 30 ng         | 1 μL               |
+| 10X LA PCR Buffer   | 1X            | 2.5 μL             |
+| MgCl2               | 2.5 mM        | 2.5 μL             |
+| dNTPs               | 0.1 mM        | 1 μL               |
+| Forward Primer      | 0.4 pmol      | 1 μL               |
+| Reverse Primer      | 0.4 pmol      | 1 μL               |
+| Nuclease Free Water | \-            | 15.9 μL            |
+| Takara LA Taq       | 0.5 U         | 0.1 μL             |
+| Total               | \-            | 25 μL              |
+
+### **PCR Conditions**
+
+| Step | Temperature           | Time                     | Cycle |
+|------|-----------------------|--------------------------|-------|
+| 1    | 95 °C                 | 3 minutes                | 1     |
+| 2    | 95 °C → 55 °C → 72 °C | 30 sec → 30 sec → 30 sec | 25    |
+| 3    | 72 °C                 | 5 minutes                | 1     |
+| 4    | 20 °C                 | ∞                        | \-    |

@@ -1,0 +1,32 @@
+---
+title: "Dr. Balakrishnan Ramakrishna"
+description: "Director, Gastroenterology, SRM Institutes for Medical Science, Chennai"
+image: ../img/balkrishnan.webp
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:wurama@hotmail.com"
+      text: Mail
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.com/citations?user=b9A0vHkAAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+An alumnus of the Christian Medical College Vellore, Dr. Ramakrishna joined the faculty of CMC, and retired as the Head of the Department of **Gastrointestinal Sciences**. He has also worked for several years abroad, in Australia, Bahrain and the USA. In 2013, he joined the SIMS Hospital. Book Instant Online video consultation for Best Medical Gastroenterologist in chennai.Experience
+:::

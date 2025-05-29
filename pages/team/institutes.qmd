@@ -1,0 +1,37 @@
+---
+title: "Partner institutes"
+format: html
+---
+
+
+### National Centre for Cell Science
+
+::::: columns
+::: {.column width="40%"}
+![](img/nccs.jpeg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Pune, India\
+**Website**: <https://www.nccs.res.in/>
+
+The National Centre for Cell Science (NCCS), an autonomous organisation aided by the Department of Biotechnology, Government of India, was established to facilitate cell biology research in the country.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### All India Institute of Medical Sciences
+
+::::: columns
+::: {.column width="40%"}
+![](img/aiims.jpeg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: New Delhi, India\
+**Website**: [https://www.aiims.edu/](https://www.aiims.edu/index.php/en)
+
+All India Institute of Medical Sciences, New Delhi (AIIMS New Delhi), is a public medical research university and hospital in New Delhi, India. The institute is governed by the AIIMS Act, 1956 and operates autonomously under the Ministry of Health and Family Welfare.
+:::
+:::::

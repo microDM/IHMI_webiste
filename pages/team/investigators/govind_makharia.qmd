@@ -1,0 +1,43 @@
+---
+title: "Prof. Govind K Makharia"
+description: "Professor at All India Institute of Medical Sciences"
+image: ../img/govind.jpeg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:govindmakharia@aiims.edu"
+      text: Mail
+      target: _blank
+    - icon: twitter
+      href: "https://x.com/govindmakharia?lang=en"
+      text: Twitter
+      target: _blank
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/govind-k-makharia-b47a8a36/?originalSubdomain=in"
+      text: LinkedIn
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=n1GYjQQAAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Dr Govind K Makharia is a Professor in the Department of Gastroenterology and Human Nutrition, All India Institute of Medical Sciences, New Delhi, India. He is also an Associate Dean (Research) at AIIMS\
+He has published 375 articles in the indexed journals, 43 chapters for different books and edited a handbook on celiac disease. The h-index of his publications is 65 and his publications has been cited by 17,200 times. He has been listed amongst top 2% research scientist globally (2021-2024).\
+He also plays leadership role global, Asian and regional level including, Governing Council Member of Indian Council of Medical Research, Govt of India, Governing Council Member, World Gastroenterology Organization, Chairman of Clinical Research Committee, World Gastroenterology Organization\
+Chairman of Asian Pacific Committee on Celiac Disease, Immediate President of Indian Society of Gastroenterology, Board Member, International Society of Studies on Celiac Disease and Chairman, Asian Committee on celiac disease. He has developed many global, Asian and Indian practice guidelines on various diseases. As an educator, he has initiated and nurtured many education programs namely, Young Clinician Program, Evidence-based Gastroenterology, Gastroenterology Young Masters, Train the Trainers and Masterclasses.
+:::

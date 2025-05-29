@@ -1,0 +1,40 @@
+---
+title: "Dr. Yogesh Shouche"
+description: "National Centre for Cell Science, SKAN Research Trust, Bangaluru"
+image: ../img/yogesh.jpeg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:yogesh.shouche@skanrt.in"
+      text: Mail
+      target: _blank
+    - icon: twitter
+      href: "https://twitter.com/dhirajdhotre"
+      text: Twitter
+      target: _blank
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/dhiraj-dhotre-36ab7a75/"
+      text: LinkedIn
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=jiwvEg4AAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Dr Yogesh S. Shouche: With over three decades of rich experience in studying microbial communities, Dr Shouche has worked extensively on the human microbiome of the Indian population and how it is affected by lifestyle and genetics. He was the brain behind the National Centre for Microbial Resources (previously Microbial research Centre) that harbours microbes from different ecosystems. His research also focused on understanding microbiome alteration in diseases like diabetes, obesity, Celiac disease with the aim of developing microbe-based therapeutic solutions. In the recent past, Dr Shouche also served as the Professor of Biology at Azim Premji University. Previously he was a research scientist at National Centre for Cell Science (NCCS), Pune, an institute affiliated to Department of Biotechnology (DBT), Government of India. At NCCS, Dr Shouche developed a microbial culture collection that harbours microbes from different ecosystems, specialised microbes (cyanobacteria, anoxygenic photosynthetic bacteria, anaerobes and antibiotic-resistant microbes).
+:::

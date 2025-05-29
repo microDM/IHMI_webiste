@@ -1,0 +1,81 @@
+project:
+  type: website
+
+website:
+  title: "IHMI"
+  navbar:
+    background: "#1E88E5"
+    logo: assets/img/logo.jpg
+    right:
+      - href: "#"
+        text: "<img src='/assets/img/dbt_logo.png' alt='DBT' class='right-logo'>"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/about.qmd
+        text: About
+      - text: Protocols
+        menu: 
+          - text: Sampling and transporation
+            href: pages/protocols/sampling.qmd
+          - text: DNA extraction
+            href: pages/protocols/dna_extraction.qmd
+          - text: 16S amplicon protocal
+            href: pages/protocols/16S_protocol.qmd
+          - text: 18S amplicon protocol
+            href: pages/protocols/18S_protocol.qmd
+          - text: ITS amplicon protocol
+            href: pages/protocols/ITS_amplicon.qmd
+          - text: Shotgun metagenomics protocol
+            href: pages/protocols/metagenomics.qmd
+          - text: Data analysis
+            href: pages/protocols/analysis_protocol.qmd
+      - href: data.qmd
+        text: Data
+      - text: Team
+        menu:
+          - text: Partner Institutes
+            href: pages/team/institutes.qmd
+          - text: Investigators
+            href: pages/team/investigators.qmd
+          - text: Working groups
+            href: pages/team/working_groups.qmd
+      - href: pages/gallery.qmd
+        text: Gallery
+
+  page-footer:
+    center:
+      - text: |
+          <hr class="footer-line" />
+          <div class="footer-logos">
+            <div class="footer-partners">
+              <h3>Partners</h3>
+              <div class="logo-row">
+                <img src="/assets/img/nccs_logo.png" alt="partner 1">
+                <img src="/assets/img/aiims_logo.png" alt="partner 2">
+                <img src="/assets/img/ibsd_logo.png" alt="partner 3">
+                <img src="/assets/img/kem_logo.jpg" alt="partner 4">
+                <img src="/assets/img/sppu_logo.png" alt="partner 5">
+                <img src="/assets/img/tdu_logo.png" alt="partner 6">
+                <img src="/assets/img/srm_logo.png" alt="partner 7">
+              </div>
+            </div>
+          </div>
+
+format:
+  html:
+    grid:
+      sidebar-width: 200px
+      body-width: 1000px
+      margin-width: 200px
+      gutter-width: 1.5rem
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    include-in-header:
+      - text: |
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+editor: visual
+

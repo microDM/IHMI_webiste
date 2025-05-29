@@ -1,0 +1,38 @@
+---
+title: "Dr. Girish Tillu"
+description: "Assistant Professor, Savitribai Phule Pune University"
+image: ../img/girish.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:gtillu@gmail.com"
+      text: Mail
+      target: _blank
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/girish-tillu-ab0a74148/?originalSubdomain=in"
+      text: LinkedIn
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=HBmR6mcAAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+A doctor by training and a researcher by profession, Vaidya Scientist Girish Tillu completed his M.D. in Dravyaguna Vidynan (Ayurveda Pharmacology) and Ph.D. in Health Sciences. He is a blend of traditional knowledge and biomedical research with more than 20 years experience in an interdisciplinary environment. Dr. Girish currently leads the research group at the Center for Complementary and Integrative Health for various innovative research projects including preclinical studies and clinical trials.
+
+He started his research career in the Interdisciplinary School of Health Sciences, SPPU, as a Senior Research Fellow under the ‘New Millennium Indian Technology Leadership Initiative’ program of CSIR, Govt. of India. He subsequently worked at the Center for Development in Advanced Computing (CDAC) for a prestigious project, AyuSoft that involved development of the knowledgebase of Ayurveda. Since 2002, he has been associated with the Centre for Rheumatic Diseases for various clinical research activities. He has participated in the coordination and execution of multi-institutional drug development research activities for degenerative and auto-immune diseases, various epidemiological projects related to treatment- seeking behavior, drug utilization studies, clinical trials and case series. He is involved in research on Ayurveda based adjuvants for COVID-19, Ayurveda approaches for immunomodulation, study of association of Prakriti and gut microbiota. He teaches courses on AYUSH systems, integrative health, integrative dietetics, clinical trials and bioethics.
+:::

@@ -1,0 +1,36 @@
+---
+title: "Dr. Dhiraj Agrawal"
+description: "Senior Public Health Scientist at KEM Hospital Research Center Pune"
+image: ../img/dhiraj_agrawal.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:dhiraj.agarwal@kemhrcvadu.org"
+      text: Mail
+      target: _blank
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/dhirajagarwal99/?originalSubdomain=in"
+      text: LinkedIn
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=BYhrS54AAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Dr. Agarwal pursued his PhD in health science at Savitribai Phule Pune University after completing his graduation. His research work and experience have primarily focused on respiratory health. He was awarded an NIHR-RESPIRE Post-Doctoral Fellowship, during which he collaborated with general practitioners in Pune to explore their perspectives on the diagnosis and treatment of lung problems. He developed various skills include project management, fieldwork supervision, scientific writing, and presentation skills. He has actively participated in national and international conferences such as IPCRG and ERS. He plays a crucial role in academic supervision and mentorship. He serves as a PhD supervisor at Savitribai Phule Pune University, guiding six PhD candidates in their research pursuits. He has published 33 research articles in peer-reviewed journals. Recently, he has taken on the role of Principal Investigator for the Vadu Health and Demographic Surveillance System at the Vadu Rural Health Program, KEM Hospital Research Centre in Pune. Overall, Dr. Dhiraj Agarwal is a distinguished Health Scientist with extensive experience in respiratory health research, project management, and academic coordination. His contributions to research, mentorship, and collaborative initiatives make him a valuable asset to the field of health sciences.
+:::

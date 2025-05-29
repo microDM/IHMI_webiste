@@ -1,0 +1,178 @@
+/* css styles */
+/* Layout for home page */
+.home-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+/* Make navbar links bold */
+.navbar .navbar-nav > li > a,
+.navbar .navbar-brand {
+  font-weight: 700 !important;
+}
+
+.home-text {
+  flex: 1;
+}
+
+.home-map {
+  flex: 1;
+  position: sticky;
+  top: 100px;
+}
+
+.home-map img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* Footer logos - larger and aligned in one line */
+/* Horizontal line above footer */
+.footer-line {
+  border: none;
+  border-top: 2px solid #ccc;
+  margin: 30px auto 10px auto;
+  width: 90%;
+}
+
+/* Footer layout */
+.footer-logos {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.footer-partners h3 {
+  margin-bottom: 10px;
+  font-size: 1.3em;
+}
+
+.logo-row {
+  display: flex;
+  flex-wrap: nowrap;          /* Prevent wrapping */
+  justify-content: center;
+  align-items: center;
+  gap: 30px;                   /* More space between logos */
+  overflow-x: auto;            /* Allow horizontal scroll on smaller screens */
+  padding: 10px 0;
+}
+
+.logo-row img {
+  height: 50px;
+  object-fit: contain;
+  flex-shrink: 0;              /* Prevent logos from shrinking */
+}
+
+
+
+/* Increase left logo size */
+.navbar-brand img {
+  max-height: 80px !important; /* Default is ~30px */
+}
+
+/* Style right logo */
+.right-logo {
+  height: 90px;
+  vertical-align: middle;
+  margin-left: 15px;
+}
+
+.ihmi-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.ihmi-metrics {
+  flex: 1;
+  position: sticky;
+  top: 100px;
+}
+
+.ihmi-toc {
+  flex: 1;
+}
+
+/* Metrics layout */
+.metric-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.metric-card {
+  width: 180px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  background: #f9f9f9;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+
+
+/* Global font and base size */
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 17px; /* Default base text */
+  line-height: 1.6;
+}
+
+/* Navbar font size */
+.navbar, .navbar-nav {
+  font-size: 18px;
+}
+
+/* TOC font */
+#TOC {
+  font-size: 16px;
+}
+
+/* TOC headers */
+#TOC .toc-active {
+  font-weight: bold;
+}
+
+/* Headings (optional tweak) */
+h1, h2, h3, h4 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+/* Hover background and text color for navbar items */
+.navbar-nav .nav-link:hover,
+.navbar-nav .dropdown-item:hover {
+  background-color: #e3f2fd; /* light blue background */
+  color: #004080 !important; /* darker blue text */
+  border-radius: 6px;
+}
+
+/* Optional: bold on hover */
+.navbar-nav .nav-link:hover {
+  font-weight: 600;
+}
+
+.layout-container {
+  display: flex;
+  gap: 2rem;
+}
+
+.custom-sidebar {
+  flex: 0 0 25%;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-right: 1px solid #ddd;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}

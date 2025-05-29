@@ -1,0 +1,32 @@
+---
+title: "Dr. Subrahmanya Kumar Kukkupuni"
+description: "The University of Transdisciplinary Health Sciences and Technology, Bangalore"
+image: ../img/subrahmanya.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:s.kumar@tdu.edu.in"
+      text: Mail
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.com/citations?user=NNGdC9IAAAAJ&hl=en&oi=ao"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Subrahmanya is working to establish substitutes for rare & endangered medicinal plants (Abhava-Pratinidhi Dravyas) based on Ayurvedic tatva (philosophy), shastra (science) and vyavahara (practice) and traditional quality standards for Indian medicine. I am also deeply interested to contemporize Ayurvedic concepts of food and nutrition, rejuvenator drugs of Ayurveda (Rasayana). Working to establish Ayurveda based nutraceuticals to prevent and manage nutritional deficiency anemia. I am also actively involved in the research on medicinal plant conservation and their sustainable use. I teach fundamental principles of Ayurveda and the medicinal plants used in traditional Indian medicine.
+:::

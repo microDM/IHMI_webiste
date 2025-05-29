@@ -1,0 +1,23 @@
+---
+title: ""
+
+listing:
+  - id: investigators
+    contents: "investigators"
+    type: grid
+    categories: false
+    image-align: 'right'
+    image-height: '100%'
+    grid-columns: 4
+    sort: "order"
+    image-placeholder: "img/dummy.jpeg"
+
+format:
+  html:
+    page-layout: full
+---
+
+## Investigators
+
+::: {#lab_members}
+:::

@@ -1,0 +1,43 @@
+---
+title: "ITS amplicon protocol"
+format: html
+---
+
+### PCR specifications
+
+**Target Region and Size**: ITS 1 region (\~321 bp)
+
+**Template Concentration**: 50 ng
+
+**Enzyme and Master mix**: TaKaRa LA Taq (Cat. No. RR002A)
+
+### **Primers**
+
+| ID | Primer sequence | Length |
+|------------------------|------------------------|------------------------|
+| ITS1F (1723-1744) | <font color="blue">TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</font>CTTGGTCATTTAGAGGAAGTAA | 55 |
+| ITS2R (2024-2043) | <font color="red">GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</font>GCTGCGTTCTTCATCGATGC | 54 |
+
+### **PCR Mixture**
+
+| Reagents            | Concentration | 1 reaction (25 μL) |
+|---------------------|---------------|--------------------|
+| DNA Template        | 50 ng         | 1.7 μL             |
+| 10X LA PCR Buffer   | 1X            | 2.5 μL             |
+| MgCl2               | 1.8 mM        | 1.8 μL             |
+| dNTPs               | 0.1 mM        | 1 μL               |
+| Forward Primer      | 0.28 pmol     | 0.7 μL             |
+| Reverse Primer      | 0.28 pmol     | 0.7 μL             |
+| BSA                 | 0.1 μg        | 0.5 μL             |
+| Nuclease Free Water | \-            | 15.975 μL          |
+| Takara LA Taq       | 0.625 U       | 0.125 μL           |
+| Total               | \-            | 25 μL              |
+
+### **PCR Conditions**
+
+| Step | Temperature           | Time                     | Cycle |
+|------|-----------------------|--------------------------|-------|
+| 1    | 95 °C                 | 5 minutes                | 1     |
+| 2    | 95 °C → 56 °C → 72 °C | 30 sec → 30 sec → 30 sec | 32    |
+| 3    | 72 °C                 | 7 minutes                | 1     |
+| 4    | 20 °C                 | ∞                        | \-    |

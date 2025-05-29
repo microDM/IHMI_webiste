@@ -1,0 +1,28 @@
+---
+title: "Dr. John Mechenro"
+description: "Social Scientist - SRM Institutes for Medical Science"
+image: ../img/dummy.jpeg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:johnmechenro@gmail.com"
+      text: Mail
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+In the field of medical research, I have primarily been involved in epidemiological studies in which I have visited various communities, held focused group discussions with community leaders and sampled individuals based on the demographic requirements of the study. I have been involved in a large multicentre study on celiac disease in which we recruited 12000 participants in Tamil Nadu for a study on the prevalence and determinants of celiac disease. In another ongoing study I have recruited participants from communities located in South India for a collaborative pan-India fecal microbiome study.
+:::

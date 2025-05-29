@@ -1,0 +1,36 @@
+---
+title: "Dr. Shantanu Ozarkar"
+description: "HOD, Assistant Professor, Savitribai Phule Pune University"
+image: ../img/shantanu.jpeg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:shantanu.ozarkar@gmail.com"
+      text: Mail
+      target: _blank
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/shantanu-ozarkar-285591a4/?originalSubdomain=in"
+      text: LinkedIn
+      target: _blank
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=-AAW5GMAAAAJ&hl=en"
+      text: GoogleScholar
+      target: _blank
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+Shantanu Ozarkar currently works at the Department of Anthropology, Savirtibai Phule Pune University. Shantanu does research in Biological Anthropology. Their current project is 'Genetics of skin pigmentation in South Asia.'
+:::
