@@ -1,0 +1,55 @@
+---
+title: "Data analysis"
+format: html
+---
+
+### Amplicon
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, amp-db}
+library(readxl)
+library(DT)
+df <- read_excel(path = './tools_databases.xlsx',sheet = 'amp-db')
+#df$Tool <- paste0("<a href='",df$url,"' target='_blank'>", df$Tool, " </a>")
+#df$url <- NULL
+
+DT::datatable(df,
+              escape = FALSE,
+              options = list(dom = 't')
+              )
+```
+
+### Metagenome
+
+#### **Tools/Softwares used**
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, tools}
+library(readxl)
+library(DT)
+df <- read_excel(path = './tools_databases.xlsx',sheet = 'tools')
+df$Tool <- paste0("<a href='",df$url,"' target='_blank'>", df$Tool, " </a>")
+df$url <- NULL
+
+DT::datatable(df,
+              escape = FALSE,
+              options = list(dom = 't')
+              )
+```
+
+------------------------------------------------------------------------
+
+#### **Databases**
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, database}
+library(readxl)
+library(DT)
+df <- read_excel(path = './tools_databases.xlsx',sheet = 'database')
+#df$Tool <- paste0("<a href='",df$url,"' target='_blank'>", df$Tool, " </a>")
+#df$url <- NULL
+
+DT::datatable(df,
+              escape = FALSE,
+              options = list(dom = 't')
+              )
+```
+
+### 

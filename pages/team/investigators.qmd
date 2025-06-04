@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Investigators"
 
 listing:
   - id: investigators
@@ -17,7 +17,6 @@ format:
     page-layout: full
 ---
 
-## Investigators
 
-::: {#lab_members}
+::: {#investigators}
 :::

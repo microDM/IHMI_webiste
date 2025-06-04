@@ -67,12 +67,12 @@
 
 /* Increase left logo size */
 .navbar-brand img {
-  max-height: 80px !important; /* Default is ~30px */
+  max-height: 100px !important; /* Default is ~30px */
 }
 
 /* Style right logo */
 .right-logo {
-  height: 90px;
+  height: 100px;
   vertical-align: middle;
   margin-left: 15px;
 }

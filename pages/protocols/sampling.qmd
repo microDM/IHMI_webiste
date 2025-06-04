@@ -4,11 +4,21 @@ format: html
 ---
 
 ::: {#sampling style="text-align: justify"}
-1.  Stool/Faecal sample is collected and transported in Norgen Stool Nucleic Acid Collection and Preservation System (Cat. No. 63710). Open the kit, read the instructions and wear gloves.
+-   Consent Form
 
-2.  Place the Fe-col collection paper over the toilet seat and collect the stool sample as shown in the figure.
+    Initially explain the purpose for the stool collection to the subjects and take their consent for the same.
 
-3.  Unscrew the Stool Nucleic Acid Collection and Preservation Tube and using the spoon attached to the cap, scoop the sample and add in the tube till the liquid reaches the ‘Fill to this Line (White Line)’. Do not over fill. Tighten the cap and shake it gently till stool is mixed with the preservative. Clean up with the alcohol swab.
+-   Questionnaires
 
-4.  Barcodes are anonymized and labelled on to the attached tube. Samples from the fields are collected and transported to the nearest partner institute (AIIMS, KEM/NCCS, SRM, IBSD). Thereafter, NCCS arranges for sample pick-ups from the partner institute via Blue-Dart Courier. Norgen Kit allows sample to be transported at ambient temperature. Norgen kit also renders samples safe and non-infectious.
+    Primary Screening of subjects is done based on endogamy for last three generations; non-migration; no-diseases (BP, Diabetes and such others); no-steroids usage; no-antibiotic usage; and such other parameters. Subsequently, Demographic; Dietary \[Food Frequency Questionnaire (FFQ)\]; and 24 h Diet Recall Questionnaires of subjects are filled on the Mobile/Tab App Entitled ‘Epicollect5’. Additionally, Ayurvedic Prakriti Assessment of Subjects is carried out.
+
+-   Sample Collection, Barcoding and Transportation
+
+    -   Stool/Faecal sample is collected and transported in Norgen Stool Nucleic Acid Collection and Preservation System (Cat. No. 63710). Open the kit, read the instructions and wear gloves.
+
+    -   Place the Fe-col collection paper over the toilet seat and collect the stool sample as shown in the figure.
+
+    -   Unscrew the Stool Nucleic Acid Collection and Preservation Tube and using the spoon attached to the cap, scoop the sample and add in the tube till the liquid reaches the ‘Fill to this Line (White Line)’. Do not over fill. Tighten the cap and shake it gently till stool is mixed with the preservative. Clean up with the alcohol swab.
+
+    -   Barcodes are anonymized and labelled on to the attached tube. Samples from the fields are collected and transported to the nearest partner institute (AIIMS, KEM/NCCS, SRM, IBSD). Thereafter, NCCS arranges for sample pick-ups from the partner institute via Blue-Dart Courier. Norgen Kit allows sample to be transported at ambient temperature. Norgen kit also renders samples safe and non-infectious.
 :::

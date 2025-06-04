@@ -35,3 +35,103 @@ The National Centre for Cell Science (NCCS), an autonomous organisation aided by
 All India Institute of Medical Sciences, New Delhi (AIIMS New Delhi), is a public medical research university and hospital in New Delhi, India. The institute is governed by the AIIMS Act, 1956 and operates autonomously under the Ministry of Health and Family Welfare.
 :::
 :::::
+
+------------------------------------------------------------------------
+
+### Dept of Anthropology, Savitribai Phule Pune University
+
+::::: columns
+::: {.column width="40%"}
+![](img/doa_sppu.jpg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Pune, India\
+**Website**: [http://www.unipune.ac.in/](http://www.unipune.ac.in/dept/mental_moral_and_social_science/anthropology/default.htm)
+
+The teaching of Anthropology as an academic discipline was started in 1963 in the combined department of Sociology and Anthropology at the Deccan College Post-Graduate and Research Institute, Pune.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Interdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University
+
+::::: columns
+::: {.column width="40%"}
+![](img/dohs_sppu.jpeg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Pune, India\
+**Website**: [http://www.unipune.ac.in/](http://www.unipune.ac.in/snc/school_of_health_sciences/default.htm)
+
+The ISHS, one of the post-graduate departments of Savitribai Phule Pune University, offers post graduate courses in public health.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Institute of Bioresources and Sustainable Development
+
+::::: columns
+::: {.column width="40%"}
+![](img/ibsd.jpeg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Imphal, India\
+**Website**: [https://ibsd.gov.in/](https://ibsd.gov.in/ibsd/home/index.php/index)
+
+The Institute of Bioresources and Sustainable Development (IBSD) although registered in April, 2001, under the Manipur Societies Registration Act, 1989, the regular activity of the Institute could be started only with the appointment of its first Director on 18th January, 2003 to achieve it's mission, goal and objectives.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### SRM Institutes for Medical Science
+
+::::: columns
+::: {.column width="40%"}
+![](img/srm.jpg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Chennai, India\
+**Website**: [https://medical.srmist.edu.in/](https://medical.srmist.edu.in/)
+
+The SRM Medical College Hospital and Research Centre is one of the top medical institutions in our country. It is set up in a great environment with a commitment towards excellence in patient care, teaching, research and innovation.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### The University of Transdisciplinary Health Sciences and Technology
+
+::::: columns
+::: {.column width="40%"}
+![](img/tdhs.jpeg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Bangalore, India\
+**Website**: [https://www.tdu.edu.in/](https://www.tdu.edu.in/)
+
+University of Trans-Disciplinary Health Sciences and Technology (TDU), formerly Institute of Trans-Disciplinary Health Sciences and Technology, is a private university located in Bangalore, Karnataka, India. The university was established in 2013 by the Foundation for Revitalization of Local Health Tradition (FRLHT) through The Institute of Trans-disciplinary Health Sciences and Technology Act, 2013.
+:::
+:::::
+
+### KEM Hospital Research Centre, Vadu
+
+::::: columns
+::: {.column width="40%"}
+![](img/kem_vadu.jpeg){width="100%"}
+:::
+
+::: {.column width="60%" style="margin-left: 20px;"}
+**Location**: Pune, India\
+**Website**: [https://www.kemhrcvadu.org/](https://www.kemhrcvadu.org/)
+
+The Vadu Rural Health Program, run under KEMHRC is now an internationally acclaimed research centre for its work and efforts in community health. It was initiated in the late 1970s. VRHP comprises of three pillars, Shirdi Saibaba Hospital, a 30-bed multi-disciplinary rural hospital provides secondary level medical care, Vadu Health and Demographic System and the Research.
+:::
+:::::

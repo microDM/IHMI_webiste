@@ -13,6 +13,6 @@ format: html
 | NGS Sequencing Group | Abhishek Gupta, Aditi Deshpande, Arinjay Gire, Ashwini Hagir, Mitali Inamdar, Mohak Gujare, Namrata Jiya, Shivang Bhanushali, Shubham Gurav, Swapnil Bodkhe |
 | Data Curation Group | Aditi Deshpande, Arinjay Gire, Chaitali Choudhari, Dhiraj Agarwal, Dhiraj Dhotre, Himangi Lubree, Mitali Inamdar, Prajakta Pakhale, Shantanu Ozarkar, Sonam Malik, Sukanya Dange, Varun Shah |
 | Data Analysis Group | Abhishek Gupta, Dattatray Mongad, Dhiraj Dhotre, Mitali Inamdar |
-| Biobanking Group | Aditi Deshpande1, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah |
+| Biobanking Group | Aditi Deshpande, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah |
 
 : IHMI working groups

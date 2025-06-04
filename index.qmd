@@ -3,7 +3,27 @@ title: "Indian Human Microbiome Initiative (IHMI)"
 format:
   html:
     toc: false
+    
 ---
+
+
+<div id="ihmi-slideshow" style="text-align:center;">
+  <img id="ihmi-slide-image" src="assets/img/image1.jpg" style="max-width:80%; max-height:400px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+</div>
+
+<script>
+  const ihmiImages = [
+    "assets/img/aiims_logo.png",
+    "assets/img/nccs_logo.png",
+    "assets/img/sppu_logo.png"
+  ];
+  let ihmiIndex = 0;
+
+  setInterval(() => {
+    ihmiIndex = (ihmiIndex + 1) % ihmiImages.length;
+    document.getElementById("ihmi-slide-image").src = ihmiImages[ihmiIndex];
+  }, 5000);
+</script>
 
 ::: {#overview .main-content style="text-align: justify"}
 The Indian Human Microbiome Initiative (IHMI) project aims at comprehensive characterization of human-associated microbes in correlation with diverse dietary habits from 17 distinct Indian endogamous groups and tribal populations which are not much influenced by modern lifestyle. The two-day sampling protocol begins with preliminary screening of the participants to determine eligibility. Individuals meeting the inclusion criteria proceeded to provide written informed consent. Subsequently, stool samples were collected the next day along with detailed metadata. The implementation of a robust sampling framework, comprehensive metadata collection, and detailed documentation of demographic, diet, and lifestyle variables resulted in collection of stool samples from **4,080 healthy individuals**.
@@ -39,3 +59,9 @@ library(kableExtra)
 ![](assets/img/sampling_sites.jpeg){width="400"}
 :::
 :::::
+
+### IHMI Documentary
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc title="What is the CERN?" start="116" aspect-ratio="15x9" >}}
+
+Department of Biotechnology, Ministry of Science and Technology, Government of India. Sanction Order No.: BT/PR23968/BRB/10/1602/2017 dated 9^th^ March 2020

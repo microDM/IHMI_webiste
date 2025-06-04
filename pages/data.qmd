@@ -1,0 +1,26 @@
+---
+title: ""
+format: html
+---
+
+::: {style="text-align:justify"}
+IHMI presents the first large scale effort to generate a reference Indian microbiome dataset.
+
+-   10,125 amplicon libraries sequenced for three domains with a total of 1619.28 billion base pairs from 4080 individuals.
+
+-   6.45 tera base pairs of good quality shotgun metagenomic sequencing data from 658 individuals. A total of 53,496 MAGs were identified including the identification of 92 novel MAGs further enriching the microbiome reference resource.
+
+-   This project also catalogued an extensive collection of more than 350 anaerobically isolated gut bacteria some of which exhibit potentially novel taxonomy and probiotic properties.
+
+-   Data are securely stored on a dedicated server at the Indian Biological Data Centre (IBDC), located at the Regional Centre for Biotechnology (RCB) in Faridabad, India.
+
+-   Stool samples have been biobanked at AIIMS and SRMIMS to ensure long term access for future research.
+
+-   Metagenomic DNA of all samples have been biobanked at NCCS.
+
+-   A total of 61 individuals have been characterized for genomic, dietary and microbiome data representing the overlap between GenomeIndia and IHMI project.
+:::
+
+### Data Access:
+
+Data Access Please reach out to us through IBDC request/access form.
