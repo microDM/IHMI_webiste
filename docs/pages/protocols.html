@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Investigators – IHMI</title>
+<title>protocols – IHMI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-7b6a53055194e4bcfe8ddd42004b1a9b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-7b6a53055194e4bcfe8ddd42004b1a9b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,68 +67,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-investigators .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-investigators'] = new List('listing-investigators', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap" rel="stylesheet">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -140,10 +80,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../assets/img/logo.jpg" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/img/logo.jpg" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">IHMI</span>
     </a>
   </div>
@@ -154,46 +94,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/about.html"> 
+    <a class="nav-link" href="../pages/about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-protocols" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Protocols</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-protocols">    
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/sampling.html">
- <span class="dropdown-text">Sampling and transporation</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/dna_extraction.html">
- <span class="dropdown-text">DNA extraction</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/16S_protocol.html">
- <span class="dropdown-text">16S amplicon protocal</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/18S_protocol.html">
- <span class="dropdown-text">18S amplicon protocol</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/ITS_amplicon.html">
- <span class="dropdown-text">ITS amplicon protocol</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/metagenomics.qmd">
- <span class="dropdown-text">Shotgun metagenomics protocol</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/data_analysis.html">
- <span class="dropdown-text">Data analysis</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/data.html"> 
+    <a class="nav-link active" href="../pages/protocols.html" aria-current="page"> 
+<span class="menu-text">Protocols</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/data.html"> 
 <span class="menu-text">Data</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -202,28 +111,24 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
         <li>
-    <a class="dropdown-item" href="../../pages/team/institutes.html">
+    <a class="dropdown-item" href="../pages/team/institutes.html">
  <span class="dropdown-text">Partner Institutes</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../pages/team/investigators.html">
- <span class="dropdown-text">Investigators</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/team/working_groups.html">
- <span class="dropdown-text">Working groups</span></a>
+    <a class="dropdown-item" href="../pages/team/people.html">
+ <span class="dropdown-text">People</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/gallery.html"> 
+    <a class="nav-link" href="../pages/gallery.html"> 
 <span class="menu-text">Gallery</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../#"> 
-<span class="menu-text"><img src="../../assets/img/dbt_logo.png" alt="DBT" class="right-logo"></span></a>
+    <a class="nav-link" href="../#"> 
+<span class="menu-text"><img src="../assets/img/dbt_logo.png" alt="DBT" class="right-logo"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -233,315 +138,73 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#sampling-and-transporation" id="toc-sampling-and-transporation" class="nav-link active" data-scroll-target="#sampling-and-transporation">Sampling and transporation</a></li>
+  <li><a href="#dna-extraction" id="toc-dna-extraction" class="nav-link" data-scroll-target="#dna-extraction">DNA extraction</a></li>
+  <li><a href="#library-preparation" id="toc-library-preparation" class="nav-link" data-scroll-target="#library-preparation">Library preparation</a>
+  <ul class="collapse">
+  <li><a href="#s-amplicon" id="toc-s-amplicon" class="nav-link" data-scroll-target="#s-amplicon">16S amplicon</a></li>
+  <li><a href="#s-amplicon-1" id="toc-s-amplicon-1" class="nav-link" data-scroll-target="#s-amplicon-1">18S amplicon</a></li>
+  <li><a href="#its-amplicon" id="toc-its-amplicon" class="nav-link" data-scroll-target="#its-amplicon">ITS amplicon</a></li>
+  </ul></li>
+  <li><a href="#shotgun-metagenomics-protocol" id="toc-shotgun-metagenomics-protocol" class="nav-link" data-scroll-target="#shotgun-metagenomics-protocol">Shotgun metagenomics protocol</a></li>
+  <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis">Data analysis</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Investigators</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta column-page">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<div id="listing-investigators" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748466838455" data-listing-reading-time-sort="1" data-listing-word-count-sort="186">
-<a href="../../pages/team/investigators/govind_makharia.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/govind.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Prof.&nbsp;Govind K Makharia
-</h5>
-<div class="card-text listing-description delink">
-<p>Professor at All India Institute of Medical Sciences</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748469043032" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
-<a href="../../pages/team/investigators/sanjay_juvekar.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/sanjay.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Sanjay Juvekar
-</h5>
-<div class="card-text listing-description delink">
-<p>Vadu Rural Health Program, KEM Hospital Research Centre Pune</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1748468074629" data-listing-reading-time-sort="1" data-listing-word-count-sort="150">
-<a href="../../pages/team/investigators/yogesh_shouche.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/yogesh.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Yogesh Shouche
-</h5>
-<div class="card-text listing-description delink">
-<p>National Centre for Cell Science, SKAN Research Trust, Bangaluru</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1748468222692" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
-<a href="../../pages/team/investigators/balkrishnan_ramkrishna.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/balkrishnan.webp" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Balakrishnan Ramakrishna
-</h5>
-<div class="card-text listing-description delink">
-<p>Director, Gastroenterology, SRM Institutes for Medical Science, Chennai</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1748463957397" data-listing-reading-time-sort="2" data-listing-word-count-sort="327">
-<a href="../../pages/team/investigators/dhiraj_dhotre.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/dhiraj.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Dhiraj Dhotre
-</h5>
-<div class="card-text listing-description delink">
-<p>Principal Investigator, Scientist ‘D’, National Centre for Cell Science, Pune</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1748467085842" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
-<a href="../../pages/team/investigators/vineet_ahuja.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/vineet.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Vineet Ahuja
-</h5>
-<div class="card-text listing-description delink">
-<p>Professor, All India Institute of Medical Sciences, New Delhi</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1748467842646" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
-<a href="../../pages/team/investigators/indira_devi.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/indira.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Sarangthem Indira Devi
-</h5>
-<div class="card-text listing-description delink">
-<p>Scientist-D, Institute of Bioresources and Sustainable Development (IBSD)</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1748469080385" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
-<a href="../../pages/team/investigators/dhiraj_agrawal.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/dhiraj_agrawal.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Dhiraj Agrawal
-</h5>
-<div class="card-text listing-description delink">
-<p>Senior Public Health Scientist at KEM Hospital Research Center Pune</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1748467276523" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<a href="../../pages/team/investigators/shantanu_ozarkar.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/shantanu.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Shantanu Ozarkar
-</h5>
-<div class="card-text listing-description delink">
-<p>HOD, Assistant Professor, Savitribai Phule Pune University</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1748468686412" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
-<a href="../../pages/team/investigators/Subrahmanya_Kukkupuni.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/subrahmanya.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Subrahmanya Kumar Kukkupuni
-</h5>
-<div class="card-text listing-description delink">
-<p>The University of Transdisciplinary Health Sciences and Technology, Bangalore</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1748467549306" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
-<a href="../../pages/team/investigators/girish_tillu.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/girish.jpg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Girish Tillu
-</h5>
-<div class="card-text listing-description delink">
-<p>Assistant Professor, Savitribai Phule Pune University</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1748468413080" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
-<a href="../../pages/team/investigators/John_Mechenro.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/dummy.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;John Mechenro
-</h5>
-<div class="card-text listing-description delink">
-<p>Social Scientist - SRM Institutes for Medical Science</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1748466647682" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
-<a href="../../pages/team/investigators/anand_krishnan.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../../pages/team/img/anand.png" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Prof.&nbsp;Anand Krishnan
-</h5>
-<div class="card-text listing-description delink">
-<p>Professor, Head WHOCC, Community Medicine, AIIMS, New Delhi</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="sampling-and-transporation" class="level2">
+<h2 class="anchored" data-anchor-id="sampling-and-transporation">Sampling and transporation</h2>
+<p>We follow standardized procedures for field sample collection to ensure minimal contamination and consistency across samples. The linked protocol describes required materials, collection techniques, and storage guidelines.<br>
+<a href="protocols/sampling.html" target="_blank">📄 View Sampling Protocol</a> <a href="protocols/sampling.pdf" class="btn btn-outline-primary" target="_blank">⬇️ Download PDF</a></p>
+</section>
+<section id="dna-extraction" class="level2">
+<h2 class="anchored" data-anchor-id="dna-extraction">DNA extraction</h2>
+<p>This protocol outlines the steps for extracting high-quality DNA suitable for downstream amplicon and shotgun sequencing. It includes buffer preparation, lysis conditions, and cleanup methods.<br>
+<a href="protocols/dna_extraction.html" target="_blank">📄 View DNA Extraction Protocol</a> <a href="protocols/dna_extraction.pdf" class="btn btn-outline-primary" target="_blank">⬇️ Download PDF</a></p>
+</section>
+<section id="library-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="library-preparation">Library preparation</h2>
+<section id="s-amplicon" class="level3">
+<h3 class="anchored" data-anchor-id="s-amplicon">16S amplicon</h3>
+<p>This document details PCR primer design, amplification conditions, and barcoding strategy specific to 16S rRNA gene sequencing. It is optimized for both Illumina and ONT platforms.<br>
+<a href="protocols/16S_protocol.html" target="_blank">📄 View 16S Amplicon Protocol</a> <a href="protocols/16S_protocol.pdf" class="btn btn-outline-primary" target="_blank">⬇️ Download PDF</a></p>
+</section>
+<section id="s-amplicon-1" class="level3">
+<h3 class="anchored" data-anchor-id="s-amplicon-1">18S amplicon</h3>
+<p>Our 18S workflow targets eukaryotic microbial communities with a universal primer pair and optimized thermal cycling. It also includes adapter ligation and cleanup.<br>
+<a href="protocols/18S_protocol.html" target="_blank">📄 View 18S Amplicon Protocol</a> <a href="protocols/18S_protocol.pdf" class="btn btn-outline-primary" target="_blank">⬇️ Download PDF</a></p>
+</section>
+<section id="its-amplicon" class="level3">
+<h3 class="anchored" data-anchor-id="its-amplicon">ITS amplicon</h3>
+<p>This protocol targets fungal ITS regions using well-established primers. It includes PCR amplification and quality control steps tailored for environmental samples.<br>
+<a href="protocols/ITS_amplicon.html" target="_blank">📄 View ITS Amplicon Protocol</a> <a href="protocols/ITS_amplicon.pdf" class="btn btn-outline-primary" target="_blank">⬇️ Download PDF</a></p>
+</section>
+</section>
+<section id="shotgun-metagenomics-protocol" class="level2">
+<h2 class="anchored" data-anchor-id="shotgun-metagenomics-protocol">Shotgun metagenomics protocol</h2>
+<p>We use a PCR-free library preparation kit for shotgun metagenomic sequencing. The protocol describes DNA shearing, end repair, and adapter ligation for high-throughput platforms.<br>
+<a href="protocols/shotgun_protocol.html" target="_blank">📄 View Shotgun Protocol</a> <a href="protocols/shotgun_protocol.pdf" class="btn btn-outline-primary" target="_blank">⬇️ Download PDF</a></p>
+</section>
+<section id="data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="data-analysis">Data analysis</h2>
+<p>This protocol covers raw sequence QC, host read removal, taxonomic profiling, and functional annotation. Tools and databases are listed with usage tips and links.<br>
+<a href="protocols/data_analysis.html" target="_blank">📄 View Data Analysis Protocol</a></p>
 
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -958,13 +621,13 @@ Prof.&nbsp;Anand Krishnan
     <p style="align:centre">Department of Biotechnology, Ministry of Science and Technology, Government of India. Sanction Order No.: BT/PR23968/BRB/10/1602/2017 dated 9th March 2020</p>
     <h3>Partners</h3>
     <div class="logo-row">
-      <img src="../../assets/img/nccs_logo.png" alt="partner 1">
-      <img src="../../assets/img/aiims_logo.png" alt="partner 2">
-      <img src="../../assets/img/ibsd_logo.png" alt="partner 3">
-      <img src="../../assets/img/kem_logo.jpg" alt="partner 4">
-      <img src="../../assets/img/sppu_logo.png" alt="partner 5">
-      <img src="../../assets/img/tdu_logo.png" alt="partner 6">
-      <img src="../../assets/img/srm_logo.png" alt="partner 7">
+      <img src="../assets/img/nccs_logo.png" alt="partner 1">
+      <img src="../assets/img/aiims_logo.png" alt="partner 2">
+      <img src="../assets/img/ibsd_logo.png" alt="partner 3">
+      <img src="../assets/img/kem_logo.jpg" alt="partner 4">
+      <img src="../assets/img/sppu_logo.png" alt="partner 5">
+      <img src="../assets/img/tdu_logo.png" alt="partner 6">
+      <img src="../assets/img/srm_logo.png" alt="partner 7">
     </div>
   </div>
 </div>

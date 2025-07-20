@@ -67,6 +67,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+<script src="../../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<link href="../../site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet">
+<script src="../../site_libs/datatables-binding-0.33/datatables.js"></script>
+<script src="../../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="../../site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
+<link href="../../site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet">
+<script src="../../site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
+<link href="../../site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
+<script src="../../site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap" rel="stylesheet">
 
 
@@ -97,41 +107,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../pages/about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-protocols" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Protocols</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-protocols">    
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/sampling.html">
- <span class="dropdown-text">Sampling and transporation</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../pages/protocols.html"> 
+<span class="menu-text">Protocols</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/dna_extraction.html">
- <span class="dropdown-text">DNA extraction</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/16S_protocol.html">
- <span class="dropdown-text">16S amplicon protocal</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/18S_protocol.html">
- <span class="dropdown-text">18S amplicon protocol</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/ITS_amplicon.html">
- <span class="dropdown-text">ITS amplicon protocol</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/metagenomics.qmd">
- <span class="dropdown-text">Shotgun metagenomics protocol</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/protocols/data_analysis.html">
- <span class="dropdown-text">Data analysis</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../../pages/data.html"> 
 <span class="menu-text">Data</span></a>
@@ -146,12 +125,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Partner Institutes</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../pages/team/investigators.html">
- <span class="dropdown-text">Investigators</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../pages/team/working_groups.html">
- <span class="dropdown-text">Working groups</span></a>
+    <a class="dropdown-item" href="../../pages/team/people.html">
+ <span class="dropdown-text">People</span></a>
   </li>  
     </ul>
   </li>
@@ -176,21 +151,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#national-centre-for-cell-science" id="toc-national-centre-for-cell-science" class="nav-link active" data-scroll-target="#national-centre-for-cell-science">National Centre for Cell Science</a></li>
-  <li><a href="#all-india-institute-of-medical-sciences" id="toc-all-india-institute-of-medical-sciences" class="nav-link" data-scroll-target="#all-india-institute-of-medical-sciences">All India Institute of Medical Sciences</a></li>
-  <li><a href="#dept-of-anthropology-savitribai-phule-pune-university" id="toc-dept-of-anthropology-savitribai-phule-pune-university" class="nav-link" data-scroll-target="#dept-of-anthropology-savitribai-phule-pune-university">Dept of Anthropology, Savitribai Phule Pune University</a></li>
-  <li><a href="#interdisciplinary-school-of-health-sciences-ishs-savitribai-phule-pune-university" id="toc-interdisciplinary-school-of-health-sciences-ishs-savitribai-phule-pune-university" class="nav-link" data-scroll-target="#interdisciplinary-school-of-health-sciences-ishs-savitribai-phule-pune-university">Interdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University</a></li>
-  <li><a href="#institute-of-bioresources-and-sustainable-development" id="toc-institute-of-bioresources-and-sustainable-development" class="nav-link" data-scroll-target="#institute-of-bioresources-and-sustainable-development">Institute of Bioresources and Sustainable Development</a></li>
-  <li><a href="#srm-institutes-for-medical-science" id="toc-srm-institutes-for-medical-science" class="nav-link" data-scroll-target="#srm-institutes-for-medical-science">SRM Institutes for Medical Science</a></li>
-  <li><a href="#the-university-of-transdisciplinary-health-sciences-and-technology" id="toc-the-university-of-transdisciplinary-health-sciences-and-technology" class="nav-link" data-scroll-target="#the-university-of-transdisciplinary-health-sciences-and-technology">The University of Transdisciplinary Health Sciences and Technology</a></li>
-  <li><a href="#kem-hospital-research-centre-vadu" id="toc-kem-hospital-research-centre-vadu" class="nav-link" data-scroll-target="#kem-hospital-research-centre-vadu">KEM Hospital Research Centre, Vadu</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -214,110 +176,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="national-centre-for-cell-science" class="level3">
-<h3 class="anchored" data-anchor-id="national-centre-for-cell-science">National Centre for Cell Science</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/nccs.jpeg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Pune, India<br>
-<strong>Website</strong>: <a href="https://www.nccs.res.in/" class="uri">https://www.nccs.res.in/</a></p>
-<p>The National Centre for Cell Science (NCCS), an autonomous organisation aided by the Department of Biotechnology, Government of India, was established to facilitate cell biology research in the country.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="all-india-institute-of-medical-sciences" class="level3">
-<h3 class="anchored" data-anchor-id="all-india-institute-of-medical-sciences">All India Institute of Medical Sciences</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/aiims.jpeg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: New Delhi, India<br>
-<strong>Website</strong>: <a href="https://www.aiims.edu/index.php/en">https://www.aiims.edu/</a></p>
-<p>All India Institute of Medical Sciences, New Delhi (AIIMS New Delhi), is a public medical research university and hospital in New Delhi, India. The institute is governed by the AIIMS Act, 1956 and operates autonomously under the Ministry of Health and Family Welfare.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="dept-of-anthropology-savitribai-phule-pune-university" class="level3">
-<h3 class="anchored" data-anchor-id="dept-of-anthropology-savitribai-phule-pune-university">Dept of Anthropology, Savitribai Phule Pune University</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/doa_sppu.jpg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Pune, India<br>
-<strong>Website</strong>: <a href="http://www.unipune.ac.in/dept/mental_moral_and_social_science/anthropology/default.htm">http://www.unipune.ac.in/</a></p>
-<p>The teaching of Anthropology as an academic discipline was started in 1963 in the combined department of Sociology and Anthropology at the Deccan College Post-Graduate and Research Institute, Pune.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="interdisciplinary-school-of-health-sciences-ishs-savitribai-phule-pune-university" class="level3">
-<h3 class="anchored" data-anchor-id="interdisciplinary-school-of-health-sciences-ishs-savitribai-phule-pune-university">Interdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/dohs_sppu.jpeg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Pune, India<br>
-<strong>Website</strong>: <a href="http://www.unipune.ac.in/snc/school_of_health_sciences/default.htm">http://www.unipune.ac.in/</a></p>
-<p>The ISHS, one of the post-graduate departments of Savitribai Phule Pune University, offers post graduate courses in public health.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="institute-of-bioresources-and-sustainable-development" class="level3">
-<h3 class="anchored" data-anchor-id="institute-of-bioresources-and-sustainable-development">Institute of Bioresources and Sustainable Development</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/ibsd.jpeg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Imphal, India<br>
-<strong>Website</strong>: <a href="https://ibsd.gov.in/ibsd/home/index.php/index">https://ibsd.gov.in/</a></p>
-<p>The Institute of Bioresources and Sustainable Development (IBSD) although registered in April, 2001, under the Manipur Societies Registration Act, 1989, the regular activity of the Institute could be started only with the appointment of its first Director on 18th January, 2003 to achieve it’s mission, goal and objectives.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="srm-institutes-for-medical-science" class="level3">
-<h3 class="anchored" data-anchor-id="srm-institutes-for-medical-science">SRM Institutes for Medical Science</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/srm.jpg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Chennai, India<br>
-<strong>Website</strong>: <a href="https://medical.srmist.edu.in/">https://medical.srmist.edu.in/</a></p>
-<p>The SRM Medical College Hospital and Research Centre is one of the top medical institutions in our country. It is set up in a great environment with a commitment towards excellence in patient care, teaching, research and innovation.</p>
-</div>
-</div>
-<hr>
-</section>
-<section id="the-university-of-transdisciplinary-health-sciences-and-technology" class="level3">
-<h3 class="anchored" data-anchor-id="the-university-of-transdisciplinary-health-sciences-and-technology">The University of Transdisciplinary Health Sciences and Technology</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/tdhs.jpeg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Bangalore, India<br>
-<strong>Website</strong>: <a href="https://www.tdu.edu.in/">https://www.tdu.edu.in/</a></p>
-<p>University of Trans-Disciplinary Health Sciences and Technology (TDU), formerly Institute of Trans-Disciplinary Health Sciences and Technology, is a private university located in Bangalore, Karnataka, India. The university was established in 2013 by the Foundation for Revitalization of Local Health Tradition (FRLHT) through The Institute of Trans-disciplinary Health Sciences and Technology Act, 2013.</p>
-</div>
-</div>
-</section>
-<section id="kem-hospital-research-centre-vadu" class="level3">
-<h3 class="anchored" data-anchor-id="kem-hospital-research-centre-vadu">KEM Hospital Research Centre, Vadu</h3>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="img/kem_vadu.jpeg" class="img-fluid" style="width:100.0%"></p>
-</div><div class="column" style="margin-left: 20px;">
-<p><strong>Location</strong>: Pune, India<br>
-<strong>Website</strong>: <a href="https://www.kemhrcvadu.org/">https://www.kemhrcvadu.org/</a></p>
-<p>The Vadu Rural Health Program, run under KEMHRC is now an internationally acclaimed research centre for its work and efforts in community health. It was initiated in the late 1970s. VRHP comprises of three pillars, Shirdi Saibaba Hospital, a 30-bed multi-disciplinary rural hospital provides secondary level medical care, Vadu Health and Demographic System and the Research.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="datatables html-widget html-fill-item" id="htmlwidget-ef2535b64e9aaf0da059" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-ef2535b64e9aaf0da059">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5","6","7","8"],["<a href='https://www.nccs.res.in/'>National Centre for Cell Science<\/a>","<a href='https://www.aiims.edu/index.php/en'>All India Institute of Medical Sciences<\/a>","<a href='http://www.unipune.ac.in/dept/mental_moral_and_social_science/anthropology/default.htm'>Dept of Anthropology, Savitribai Phule Pune University<\/a>","<a href='http://www.unipune.ac.in/snc/school_of_health_sciences/default.htm'>Interdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University<\/a>","<a href='https://ibsd.gov.in/ibsd/home/index.php/index'>Institute of Bioresources and Sustainable Development<\/a>","<a href='https://medical.srmist.edu.in/'>SRM Institutes for Medical Science<\/a>","<a href='https://www.tdu.edu.in/'>The University of Transdisciplinary Health Sciences and Technology<\/a>","<a href='https://www.kemhrcvadu.org/'>KEM Hospital Research Centre, Vadu <\/a>"],["Pune, India","New Delhi, India","Pune, India","Pune, India","Imphal, India","Chennai, India","Bangalore, India","Vadu, Pune, India"],[null,null,null,null,null,null,null,null]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Name<\/th>\n      <th>Location<\/th>\n      <th>Role<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"searching":false,"paging":false,"info":false,"columnDefs":[{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"Name","targets":1},{"name":"Location","targets":2},{"name":"Role","targets":3}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

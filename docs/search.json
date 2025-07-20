@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Indian Human Microbiome Initiative (IHMI)",
     "section": "",
-    "text": "The Indian Human Microbiome Initiative (IHMI) project aims at comprehensive characterization of human-associated microbes in correlation with diverse dietary habits from 17 distinct Indian endogamous groups and tribal populations which are not much influenced by modern lifestyle. The two-day sampling protocol begins with preliminary screening of the participants to determine eligibility. Individuals meeting the inclusion criteria proceeded to provide written informed consent. Subsequently, stool samples were collected the next day along with detailed metadata. The implementation of a robust sampling framework, comprehensive metadata collection, and detailed documentation of demographic, diet, and lifestyle variables resulted in collection of stool samples from 4,080 healthy individuals.\n\n\n\n\n\n4,080#Samples\n\n\n17#Communities\n\n\n10,125#Amplicon Libraries\n\n\n658#Metagenomes\n\n\n61#Human Genomes\n\n\n4,990#HQ-MAGs\n\n\n\n\n\n\n\n\nIHMI Documentary\n\nDepartment of Biotechnology, Ministry of Science and Technology, Government of India. Sanction Order No.: BT/PR23968/BRB/10/1602/2017 dated 9th March 2020"
+    "text": "The Indian Human Microbiome Initiative (IHMI) is a pioneering national effort to study the microbial landscape of India’s richly varied communities. By sampling over 4,080 healthy individuals from 17 culturally and ecologically distinct groups, IHMI offers the first large-scale insight into how traditional diets, regional environments, and genetic ancestry influence gut microbial ecosystems.\nIHMI represents a foundational framework for advancing global microbiome science by systematically characterizing population-specific microbial signatures from an underrepresented region. It aims to inform precision nutrition and microbiome-guided healthcare solutions tailored specifically to Indian populations bridging a major representation gap in international microbiome studies.\n\n\n\n\n\n4,080#Samples\n\n\n17#Communities\n\n\n10,125#Amplicon Libraries\n\n\n658#Metagenomes\n\n\n61#Human Genomes\n\n\n4,990#HQ-MAGs\n\n\n\n\n\n\n\n\nIHMI Documentary\n\nDepartment of Biotechnology, Ministry of Science and Technology, Government of India. Sanction Order No.: BT/PR23968/BRB/10/1602/2017 dated 9th March 2020"
   },
   {
     "objectID": "pages/team/investigators/girish_tillu.html",
@@ -49,25 +49,53 @@
     "text": "About\n\nDr Sanjay Juvekar as a senior scientist has been the Principal Investigator for the study on COPD in India which is collaboration between the Chest Research Foundation and the Imperial College. He also worked as a the Principal Investigator in a multi country collaborative study which is supported by INDEPTH Network for the development of a prototype of data sharing among the demographic surveillance sites in Asia. During the years 1991-1999 Dr Juvekar worked as a research officer at the Foundation for Research in Community Health in Pune, India. He also undertook research activities from 2000-2002 at the Centre for Health Research and Development, The Maharashtra Association of Anthropological Sciences in Pune, India.\nDr Juvekar in 1991 obtained a Master of Science and a Doctor of Philosophy in Anthropology in 2002 from the University of Pune, India. He has authored and coauthored five publications in peer reviewed journals."
   },
   {
-    "objectID": "pages/team/working_groups.html",
-    "href": "pages/team/working_groups.html",
-    "title": "Working groups",
+    "objectID": "pages/data.html",
+    "href": "pages/data.html",
+    "title": "IHMI",
     "section": "",
-    "text": "IHMI working groups\n\n\n\n\n\n\nGroup\nMembers\n\n\n\n\nConceptualization and project writing\nAbhijit Kulkarni, Dhiraj Dhotre, Sanjay Juvekar, Shantanu Ozarkar, Shreyas Kumbhare, Vilas Sinkar, Yogesh Shouche\n\n\nProject coordination and administration group\nAnand Krishnan, Balakrishnan S Ramakrishna, Dhiraj Agarwal, Dhiraj Dhotre, Girish Tillu, Govind Makharia, Indira Devi Sarangthem, John P Mechenro, Mahima Gubani, Omkar Godse, Sanjay Juvekar, Shantanu Ozarkar, Simmy Frankenstein, Subrahmanya Kumar Kukkupuni, Varun Shah, Vineet Ahuja, Yogesh Shouche\n\n\nAyurvedic Prakriti Assessment\nSanket V Sharma, Sumit Salunke, Venkatesh Shankar Anthropological Assessment: Akanksha Choudhari, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Ng. Ngashangva, Simmy Frankenstein, Vivek Pakhare, Y. Randhir Babu Singh\n\n\nSampling group\nAditi Deshpande, Akanksha Choudhari, Ashwini Hagir, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Mitali Inamdar, Mohak Gujare, Ng. Ngashangva, Omkar Godse, Sanket V Sharma, Shubham Gurav, Simmy Frankenstein, Sumit Salunke, Swapnil Bodkhe, Venkatesh Shankar, Vivek Pakhare, Y. Randhir Babu Singh\n\n\nMicrobial Isolation Group\nAshwini Hagir, Mitali Inamdar, Namrata Jiya\n\n\nNGS Sequencing Group\nAbhishek Gupta, Aditi Deshpande, Arinjay Gire, Ashwini Hagir, Mitali Inamdar, Mohak Gujare, Namrata Jiya, Shivang Bhanushali, Shubham Gurav, Swapnil Bodkhe\n\n\nData Curation Group\nAditi Deshpande, Arinjay Gire, Chaitali Choudhari, Dhiraj Agarwal, Dhiraj Dhotre, Himangi Lubree, Mitali Inamdar, Prajakta Pakhale, Shantanu Ozarkar, Sonam Malik, Sukanya Dange, Varun Shah\n\n\nData Analysis Group\nAbhishek Gupta, Dattatray Mongad, Dhiraj Dhotre, Mitali Inamdar\n\n\nBiobanking Group\nAditi Deshpande, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah"
+    "text": "IHMI presents the first large scale effort to generate a reference Indian microbiome dataset.\n\n10,125 amplicon libraries sequenced for three domains with a total of 1619.28 billion base pairs from 4080 individuals.\n6.45 tera base pairs of good quality shotgun metagenomic sequencing data from 658 individuals. A total of 53,496 MAGs were identified including the identification of 92 novel MAGs further enriching the microbiome reference resource.\nThis project also catalogued an extensive collection of more than 350 anaerobically isolated gut bacteria some of which exhibit potentially novel taxonomy and probiotic properties.\nData are securely stored on a dedicated server at the Indian Biological Data Centre (IBDC), located at the Regional Centre for Biotechnology (RCB) in Faridabad, India.\nStool samples have been biobanked at AIIMS and SRMIMS to ensure long term access for future research.\nMetagenomic DNA of all samples have been biobanked at NCCS.\nA total of 61 individuals have been characterized for genomic, dietary and microbiome data representing the overlap between GenomeIndia and IHMI project.\n\n\n\nData Access:\nData Access Please reach out to us through IBDC request/access form."
   },
   {
-    "objectID": "pages/team/investigators.html",
-    "href": "pages/team/investigators.html",
-    "title": "Investigators",
+    "objectID": "pages/protocols.html",
+    "href": "pages/protocols.html",
+    "title": "IHMI",
     "section": "",
-    "text": "Prof. Govind K Makharia\n\n\nProfessor at All India Institute of Medical Sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSanjay Juvekar\n\n\nVadu Rural Health Program, KEM Hospital Research Centre Pune\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Yogesh Shouche\n\n\nNational Centre for Cell Science, SKAN Research Trust, Bangaluru\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Balakrishnan Ramakrishna\n\n\nDirector, Gastroenterology, SRM Institutes for Medical Science, Chennai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Dhiraj Dhotre\n\n\nPrincipal Investigator, Scientist ‘D’, National Centre for Cell Science, Pune\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Vineet Ahuja\n\n\nProfessor, All India Institute of Medical Sciences, New Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Sarangthem Indira Devi\n\n\nScientist-D, Institute of Bioresources and Sustainable Development (IBSD)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Dhiraj Agrawal\n\n\nSenior Public Health Scientist at KEM Hospital Research Center Pune\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Shantanu Ozarkar\n\n\nHOD, Assistant Professor, Savitribai Phule Pune University\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Subrahmanya Kumar Kukkupuni\n\n\nThe University of Transdisciplinary Health Sciences and Technology, Bangalore\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Girish Tillu\n\n\nAssistant Professor, Savitribai Phule Pune University\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. John Mechenro\n\n\nSocial Scientist - SRM Institutes for Medical Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProf. Anand Krishnan\n\n\nProfessor, Head WHOCC, Community Medicine, AIIMS, New Delhi\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "We follow standardized procedures for field sample collection to ensure minimal contamination and consistency across samples. The linked protocol describes required materials, collection techniques, and storage guidelines.\n📄 View Sampling Protocol ⬇️ Download PDF"
   },
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "About",
+    "objectID": "pages/protocols.html#sampling-and-transporation",
+    "href": "pages/protocols.html#sampling-and-transporation",
+    "title": "IHMI",
     "section": "",
-    "text": "In the last decade preliminary analyses of microbiome influence on human health by several global studies (NIH Human Microbiome Project, British Gut Project, Canadian Microbiome Initiative, Dutch Microbiome Project, Finnish HELMi Cohort and such others) have opened several conjectures (iHMP, 2014; Del Savio et al., 2017; Korpela et al., 2019; Lopera-Maya et al., 2022; and Gacesa et al., 2022). Interestingly, these studies have also indicated that microbiota is sensitive to several intrinsic and extrinsic factors including but not limited to host genetics, dietary habits, age, geographic location, lifestyle, ethnicity (Yatsunenko et al. 2012; David et al. 2014; Bonder et al. 2016).\n\n\nVision\n\nBridging the gap in deciphering the global gut microbiome signatures of health\nor\nExpanding the human microbiome reference map\n\n\n\nMission\n\nThe Indian Human Microbiome Initiative (IHMI) project is taxonomic and functional cartography of the unparalleled ethnic and dietary spectrum associated Indian Gut Microbiome\nor\nThe Indian Human Microbiome Initiative (IHMI) project is a pioneering effort to characterize microbial diversity across ethnically and dietarily distinct communities\n\n\n\nNeed for mapping Indian Microbiome\n\n\nIndia has huge diet, lifestyle and ethnic diversity and thus is a perfect model to study association of ‘Genetics, biogeography, lifestyle, ethnicity and diet with Microbiome’.\nIncreasing the success of FMT in Indian patients\nMicrobiota based metabolic disease models developed in one location fail in other location and hence cannot be extrapolated (He et al., 2018).\nCorrelating ‘-omics’ based gut microbiome concepts with traditional Indian Ayurvedic concepts.\nCharacterization of microbiome from autochthonous tribal populations which are not influenced by modernization and changing lifestyle may lead to identification of many unique and novel microbes.\nDoes Indian population have a new enterotype?\n\n\n\n\nKey Gaps/Questions\n\n\nDetermining the baseline gut microbiome data of Indian endogamous groups having unparalleled varied dietary and lifestyle patterns.\nWhat are the unique features of microbiota of Indian population? Is it possible to define the core Indian microbiome or their will be several core Indian Microbiome(s) ?\nHow microbiota changes across the population of India including tribal population living in their natural habitat and following traditional practices?\nHow does the diet, lifestyle and age influence the gut microbial community composition and structure?\nIs there any association between microbiome and three distinct Ayurvedic Prakriti types?\nUnderstanding the temporal variations in gut microbiome."
+    "text": "We follow standardized procedures for field sample collection to ensure minimal contamination and consistency across samples. The linked protocol describes required materials, collection techniques, and storage guidelines.\n📄 View Sampling Protocol ⬇️ Download PDF"
+  },
+  {
+    "objectID": "pages/protocols.html#dna-extraction",
+    "href": "pages/protocols.html#dna-extraction",
+    "title": "IHMI",
+    "section": "DNA extraction",
+    "text": "DNA extraction\nThis protocol outlines the steps for extracting high-quality DNA suitable for downstream amplicon and shotgun sequencing. It includes buffer preparation, lysis conditions, and cleanup methods.\n📄 View DNA Extraction Protocol ⬇️ Download PDF"
+  },
+  {
+    "objectID": "pages/protocols.html#library-preparation",
+    "href": "pages/protocols.html#library-preparation",
+    "title": "IHMI",
+    "section": "Library preparation",
+    "text": "Library preparation\n\n16S amplicon\nThis document details PCR primer design, amplification conditions, and barcoding strategy specific to 16S rRNA gene sequencing. It is optimized for both Illumina and ONT platforms.\n📄 View 16S Amplicon Protocol ⬇️ Download PDF\n\n\n18S amplicon\nOur 18S workflow targets eukaryotic microbial communities with a universal primer pair and optimized thermal cycling. It also includes adapter ligation and cleanup.\n📄 View 18S Amplicon Protocol ⬇️ Download PDF\n\n\nITS amplicon\nThis protocol targets fungal ITS regions using well-established primers. It includes PCR amplification and quality control steps tailored for environmental samples.\n📄 View ITS Amplicon Protocol ⬇️ Download PDF"
+  },
+  {
+    "objectID": "pages/protocols.html#shotgun-metagenomics-protocol",
+    "href": "pages/protocols.html#shotgun-metagenomics-protocol",
+    "title": "IHMI",
+    "section": "Shotgun metagenomics protocol",
+    "text": "Shotgun metagenomics protocol\nWe use a PCR-free library preparation kit for shotgun metagenomic sequencing. The protocol describes DNA shearing, end repair, and adapter ligation for high-throughput platforms.\n📄 View Shotgun Protocol ⬇️ Download PDF"
+  },
+  {
+    "objectID": "pages/protocols.html#data-analysis",
+    "href": "pages/protocols.html#data-analysis",
+    "title": "IHMI",
+    "section": "Data analysis",
+    "text": "Data analysis\nThis protocol covers raw sequence QC, host read removal, taxonomic profiling, and functional annotation. Tools and databases are listed with usage tips and links.\n📄 View Data Analysis Protocol"
   },
   {
     "objectID": "pages/protocols/16S_protocol.html",
@@ -100,7 +128,7 @@
   {
     "objectID": "pages/protocols/18S_protocol.html",
     "href": "pages/protocols/18S_protocol.html",
-    "title": "18S_protocol",
+    "title": "18S amplicon protocol",
     "section": "",
     "text": "PCR specifications\nTarget Region and Size: V9 region (~145 bp)\nTemplate Concentration: 30 ng\nEnzyme and Master mix: TaKaRa LA Taq (Cat. No. RR002A)\n\n\nPrimers\n\n\n\n\n\n\n\n\nID\nPrimer sequence\nLength\n\n\n\n\n18S_1391F\nTCGTCGGCAGCGTCAGATGTGTATAAGAGACAGGTACACACCGCCCGTC\n49\n\n\n18S_EukBr\nGTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGTGATCCTTCTGCAGGTTCACCTAC\n58\n\n\n\n\n\nPCR Mixture\n\n\n\nReagents\nConcentration\n1 reaction (25 μL)\n\n\n\n\nDNA Template\n30 ng\n1 μL\n\n\n10X LA PCR Buffer\n1X\n2.5 μL\n\n\nMgCl2\n0.8 mM\n0.8 μL\n\n\ndNTPs\n0.1 mM\n1 μL\n\n\nForward Primer\n0.20 pmol\n0.5 μL\n\n\nReverse Primer\n0.20 pmol\n0.5 μL\n\n\nNuclease Free Water\n-\n17.6 μL\n\n\nTakara LA Taq\n0.625 U\n0.1 μL\n\n\nTotal\n-\n25 μL\n\n\n\n\n\nPCR Conditions\n\n\n\nStep\nTemperature\nTime\nCycle\n\n\n\n\n1\n95 °C\n5 minutes\n1\n\n\n2\n95 °C → 57 °C → 72 °C\n30 sec → 30 sec → 30 sec\n30\n\n\n3\n72 °C\n5 minutes\n1\n\n\n4\n20 °C\n∞\n-"
   },
@@ -112,18 +140,53 @@
     "text": "Consent Form\nInitially explain the purpose for the stool collection to the subjects and take their consent for the same.\nQuestionnaires\nPrimary Screening of subjects is done based on endogamy for last three generations; non-migration; no-diseases (BP, Diabetes and such others); no-steroids usage; no-antibiotic usage; and such other parameters. Subsequently, Demographic; Dietary [Food Frequency Questionnaire (FFQ)]; and 24 h Diet Recall Questionnaires of subjects are filled on the Mobile/Tab App Entitled ‘Epicollect5’. Additionally, Ayurvedic Prakriti Assessment of Subjects is carried out.\nSample Collection, Barcoding and Transportation\n\nStool/Faecal sample is collected and transported in Norgen Stool Nucleic Acid Collection and Preservation System (Cat. No. 63710). Open the kit, read the instructions and wear gloves.\nPlace the Fe-col collection paper over the toilet seat and collect the stool sample as shown in the figure.\nUnscrew the Stool Nucleic Acid Collection and Preservation Tube and using the spoon attached to the cap, scoop the sample and add in the tube till the liquid reaches the ‘Fill to this Line (White Line)’. Do not over fill. Tighten the cap and shake it gently till stool is mixed with the preservative. Clean up with the alcohol swab.\nBarcodes are anonymized and labelled on to the attached tube. Samples from the fields are collected and transported to the nearest partner institute (AIIMS, KEM/NCCS, SRM, IBSD). Thereafter, NCCS arranges for sample pick-ups from the partner institute via Blue-Dart Courier. Norgen Kit allows sample to be transported at ambient temperature. Norgen kit also renders samples safe and non-infectious."
   },
   {
-    "objectID": "pages/data.html",
-    "href": "pages/data.html",
-    "title": "IHMI",
+    "objectID": "pages/gallery.html",
+    "href": "pages/gallery.html",
+    "title": "Gallery",
     "section": "",
-    "text": "IHMI presents the first large scale effort to generate a reference Indian microbiome dataset.\n\n10,125 amplicon libraries sequenced for three domains with a total of 1619.28 billion base pairs from 4080 individuals.\n6.45 tera base pairs of good quality shotgun metagenomic sequencing data from 658 individuals. A total of 53,496 MAGs were identified including the identification of 92 novel MAGs further enriching the microbiome reference resource.\nThis project also catalogued an extensive collection of more than 350 anaerobically isolated gut bacteria some of which exhibit potentially novel taxonomy and probiotic properties.\nData are securely stored on a dedicated server at the Indian Biological Data Centre (IBDC), located at the Regional Centre for Biotechnology (RCB) in Faridabad, India.\nStool samples have been biobanked at AIIMS and SRMIMS to ensure long term access for future research.\nMetagenomic DNA of all samples have been biobanked at NCCS.\nA total of 61 individuals have been characterized for genomic, dietary and microbiome data representing the overlap between GenomeIndia and IHMI project.\n\n\n\nData Access:\nData Access Please reach out to us through IBDC request/access form."
+    "text": "Documentary: IHMI in pipeline\n\n\nIHMI in snaps\n\n\n\n\n\n\n\n\nTeam IHMI\n\n\n\n\n\n\n\nKickstart meeting of IHMI\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\n\nIHMI sampling: Measuring heights of participants\n\n\n\n\n\n\n\nIHMI sampling: Explaining tribals about the project\n\n\n\n\n\n\nFigure 2"
   },
   {
-    "objectID": "pages/team/institutes.html",
-    "href": "pages/team/institutes.html",
-    "title": "Partner institutes",
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About",
     "section": "",
-    "text": "National Centre for Cell Science\n\n\n\n\nLocation: Pune, India\nWebsite: https://www.nccs.res.in/\nThe National Centre for Cell Science (NCCS), an autonomous organisation aided by the Department of Biotechnology, Government of India, was established to facilitate cell biology research in the country.\n\n\n\n\n\nAll India Institute of Medical Sciences\n\n\n\n\nLocation: New Delhi, India\nWebsite: https://www.aiims.edu/\nAll India Institute of Medical Sciences, New Delhi (AIIMS New Delhi), is a public medical research university and hospital in New Delhi, India. The institute is governed by the AIIMS Act, 1956 and operates autonomously under the Ministry of Health and Family Welfare.\n\n\n\n\n\nDept of Anthropology, Savitribai Phule Pune University\n\n\n\n\nLocation: Pune, India\nWebsite: http://www.unipune.ac.in/\nThe teaching of Anthropology as an academic discipline was started in 1963 in the combined department of Sociology and Anthropology at the Deccan College Post-Graduate and Research Institute, Pune.\n\n\n\n\n\nInterdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University\n\n\n\n\nLocation: Pune, India\nWebsite: http://www.unipune.ac.in/\nThe ISHS, one of the post-graduate departments of Savitribai Phule Pune University, offers post graduate courses in public health.\n\n\n\n\n\nInstitute of Bioresources and Sustainable Development\n\n\n\n\nLocation: Imphal, India\nWebsite: https://ibsd.gov.in/\nThe Institute of Bioresources and Sustainable Development (IBSD) although registered in April, 2001, under the Manipur Societies Registration Act, 1989, the regular activity of the Institute could be started only with the appointment of its first Director on 18th January, 2003 to achieve it’s mission, goal and objectives.\n\n\n\n\n\nSRM Institutes for Medical Science\n\n\n\n\nLocation: Chennai, India\nWebsite: https://medical.srmist.edu.in/\nThe SRM Medical College Hospital and Research Centre is one of the top medical institutions in our country. It is set up in a great environment with a commitment towards excellence in patient care, teaching, research and innovation.\n\n\n\n\n\nThe University of Transdisciplinary Health Sciences and Technology\n\n\n\n\nLocation: Bangalore, India\nWebsite: https://www.tdu.edu.in/\nUniversity of Trans-Disciplinary Health Sciences and Technology (TDU), formerly Institute of Trans-Disciplinary Health Sciences and Technology, is a private university located in Bangalore, Karnataka, India. The university was established in 2013 by the Foundation for Revitalization of Local Health Tradition (FRLHT) through The Institute of Trans-disciplinary Health Sciences and Technology Act, 2013.\n\n\n\n\nKEM Hospital Research Centre, Vadu\n\n\n\n\nLocation: Pune, India\nWebsite: https://www.kemhrcvadu.org/\nThe Vadu Rural Health Program, run under KEMHRC is now an internationally acclaimed research centre for its work and efforts in community health. It was initiated in the late 1970s. VRHP comprises of three pillars, Shirdi Saibaba Hospital, a 30-bed multi-disciplinary rural hospital provides secondary level medical care, Vadu Health and Demographic System and the Research."
+    "text": "India’s extraordinary mosaic of cuisines, climates, genetic backgrounds, and cultural traditions provides a rare window into human–microbe co-evolution. Yet, despite comprising nearly one-sixth of the global population, Indian communities remain vastly underrepresented in existing microbiome research.\nIHMI confronts this disparity by establishing the first comprehensive microbial reference for the Indian population. This baseline not only deepens our understanding of population-specific microbiome patterns but also unlocks new opportunities for personalized health strategies grounded in indigenous biological and cultural contexts.\n\n\n\n📊 Our Progress at a Glance\n💩 Stool Samples Collected    4,080\n🌐 Communities Covered        17\n🧬 Amplicon Libraries               10,125\n🔎 Metagenomes                       658\n🧍 Human Genomes                61\n🧫 High-Quality MAGs               4,990\n\n\n\nVision\n\nBridging the gap in deciphering the global gut microbiome signatures of health\nor\nExpanding the human microbiome reference map\n\n\n\nMission\n\nThe Indian Human Microbiome Initiative (IHMI) project is taxonomic and functional cartography of the unparalleled ethnic and dietary spectrum associated Indian Gut Microbiome\nor\nThe Indian Human Microbiome Initiative (IHMI) project is a pioneering effort to characterize microbial diversity across ethnically and dietarily distinct communities\n\n\n\nNeed for mapping Indian Microbiome\n\n\nIndia has huge diet, lifestyle and ethnic diversity and thus is a perfect model to study association of ‘Genetics, biogeography, lifestyle, ethnicity and diet with Microbiome’.\nIncreasing the success of FMT in Indian patients\nMicrobiota based metabolic disease models developed in one location fail in other location and hence cannot be extrapolated (He et al., 2018).\nCorrelating ‘-omics’ based gut microbiome concepts with traditional Indian Ayurvedic concepts.\nCharacterization of microbiome from autochthonous tribal populations which are not influenced by modernization and changing lifestyle may lead to identification of many unique and novel microbes.\nDoes Indian population have a new enterotype?\n\n\n\n\nKey Gaps/Questions\n\n\nDetermining the baseline gut microbiome data of Indian endogamous groups having unparalleled varied dietary and lifestyle patterns.\nWhat are the unique features of microbiota of Indian population? Is it possible to define the core Indian microbiome or their will be several core Indian Microbiome(s) ?\nHow microbiota changes across the population of India including tribal population living in their natural habitat and following traditional practices?\nHow does the diet, lifestyle and age influence the gut microbial community composition and structure?\nIs there any association between microbiome and three distinct Ayurvedic Prakriti types?\nUnderstanding the temporal variations in gut microbiome."
+  },
+  {
+    "objectID": "pages/team/people.html",
+    "href": "pages/team/people.html",
+    "title": "IHMI",
+    "section": "",
+    "text": "Dr. Suchita Ninawe,Senior Adviser and Scientist H, Department of Biotechnology"
+  },
+  {
+    "objectID": "pages/team/people.html#scientific-coordinator",
+    "href": "pages/team/people.html#scientific-coordinator",
+    "title": "IHMI",
+    "section": "",
+    "text": "Dr. Suchita Ninawe,Senior Adviser and Scientist H, Department of Biotechnology"
+  },
+  {
+    "objectID": "pages/team/people.html#dbt-administrative-scientist",
+    "href": "pages/team/people.html#dbt-administrative-scientist",
+    "title": "IHMI",
+    "section": "DBT Administrative Scientist",
+    "text": "DBT Administrative Scientist\n\nDr. Richi V. Mahajan, Scientist D, Department of Biotechnology"
+  },
+  {
+    "objectID": "pages/team/people.html#investigators",
+    "href": "pages/team/people.html#investigators",
+    "title": "IHMI",
+    "section": "Investigators",
+    "text": "Investigators"
+  },
+  {
+    "objectID": "pages/team/people.html#working-groups",
+    "href": "pages/team/people.html#working-groups",
+    "title": "IHMI",
+    "section": "Working groups",
+    "text": "Working groups\n\n\n\n\n\n\n\nGroup\nMembers\n\n\n\n\nConceptualization and project writing\nAbhijit Kulkarni, Dhiraj Dhotre, Sanjay Juvekar, Shantanu Ozarkar, Shreyas Kumbhare, Vilas Sinkar, Yogesh Shouche\n\n\nProject coordination and administration group\nAnand Krishnan, Balakrishnan S Ramakrishna, Dhiraj Agarwal, Dhiraj Dhotre, Girish Tillu, Govind Makharia, Indira Devi Sarangthem, John P Mechenro, Mahima Gubani, Omkar Godse, Sanjay Juvekar, Shantanu Ozarkar, Simmy Frankenstein, Subrahmanya Kumar Kukkupuni, Varun Shah, Vineet Ahuja, Yogesh Shouche\n\n\nAyurvedic Prakriti Assessment\nSanket V Sharma, Sumit Salunke, Venkatesh Shankar Anthropological Assessment: Akanksha Choudhari, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Ng. Ngashangva, Simmy Frankenstein, Vivek Pakhare, Y. Randhir Babu Singh\n\n\nSampling group\nAditi Deshpande, Akanksha Choudhari, Ashwini Hagir, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Mitali Inamdar, Mohak Gujare, Ng. Ngashangva, Omkar Godse, Sanket V Sharma, Shubham Gurav, Simmy Frankenstein, Sumit Salunke, Swapnil Bodkhe, Venkatesh Shankar, Vivek Pakhare, Y. Randhir Babu Singh\n\n\nMicrobial Isolation Group\nAshwini Hagir, Mitali Inamdar, Namrata Jiya\n\n\nNGS Sequencing Group\nAbhishek Gupta, Aditi Deshpande, Arinjay Gire, Ashwini Hagir, Mitali Inamdar, Mohak Gujare, Namrata Jiya, Shivang Bhanushali, Shubham Gurav, Swapnil Bodkhe\n\n\nData Curation Group\nAditi Deshpande, Arinjay Gire, Chaitali Choudhari, Dhiraj Agarwal, Dhiraj Dhotre, Himangi Lubree, Mitali Inamdar, Prajakta Pakhale, Shantanu Ozarkar, Sonam Malik, Sukanya Dange, Varun Shah\n\n\nData Analysis Group\nAbhishek Gupta, Dattatray Mongad, Dhiraj Dhotre, Mitali Inamdar\n\n\nBiobanking Group\nAditi Deshpande, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah"
   },
   {
     "objectID": "pages/team/investigators/govind_makharia.html",
