@@ -35,7 +35,7 @@ DT::datatable(
 ## Working groups
 
 | Group | Members |
-|------------------------------------|------------------------------------|
+|----|----|
 | Conceptualization and project writing | Abhijit Kulkarni, Dhiraj Dhotre, Sanjay Juvekar, Shantanu Ozarkar, Shreyas Kumbhare, Vilas Sinkar, Yogesh Shouche |
 | Project coordination and administration group | Anand Krishnan, Balakrishnan S Ramakrishna, Dhiraj Agarwal, Dhiraj Dhotre, Girish Tillu, Govind Makharia, Indira Devi Sarangthem, John P Mechenro, Mahima Gubani, Omkar Godse, Sanjay Juvekar, Shantanu Ozarkar, Simmy Frankenstein, Subrahmanya Kumar Kukkupuni, Varun Shah, Vineet Ahuja, Yogesh Shouche |
 | Ayurvedic Prakriti Assessment | Sanket V Sharma, Sumit Salunke, Venkatesh Shankar Anthropological Assessment: Akanksha Choudhari, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Ng. Ngashangva, Simmy Frankenstein, Vivek Pakhare, Y. Randhir Babu Singh |
@@ -45,4 +45,3 @@ DT::datatable(
 | Data Curation Group | Aditi Deshpande, Arinjay Gire, Chaitali Choudhari, Dhiraj Agarwal, Dhiraj Dhotre, Himangi Lubree, Mitali Inamdar, Prajakta Pakhale, Shantanu Ozarkar, Sonam Malik, Sukanya Dange, Varun Shah |
 | Data Analysis Group | Abhishek Gupta, Dattatray Mongad, Dhiraj Dhotre, Mitali Inamdar |
 | Biobanking Group | Aditi Deshpande, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah |
-
