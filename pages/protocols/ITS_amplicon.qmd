@@ -1,6 +1,8 @@
 ---
 title: "ITS amplicon protocol"
-format: html
+format:
+  html: default
+  pdf: default
 ---
 
 ### PCR specifications

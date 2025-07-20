@@ -1,6 +1,7 @@
 ---
 title: "Data analysis"
-format: html
+format:
+  html: default
 ---
 
 ### Amplicon

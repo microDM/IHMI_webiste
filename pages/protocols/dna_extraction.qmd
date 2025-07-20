@@ -1,6 +1,8 @@
 ---
 title: "DNA extraction"
-format: html
+format:
+  html: default
+  pdf: default
 ---
 
 DNA Extraction is carried out using Stool DNA Isolation Kit (Magnetic bead system; Cat. No. 63100; Norgen Biotek Corp.) with some modifications as follows:

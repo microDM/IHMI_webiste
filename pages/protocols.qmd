@@ -1,0 +1,41 @@
+---
+title: ""
+format: html
+---
+
+## Sampling and transporation
+
+We follow standardized procedures for field sample collection to ensure minimal contamination and consistency across samples. The linked protocol describes required materials, collection techniques, and storage guidelines.  
+[📄 View Sampling Protocol](protocols/sampling.html){target="_blank"}
+[⬇️ Download PDF](protocols/sampling.pdf){target="_blank" .btn .btn-outline-primary}
+
+## DNA extraction
+This protocol outlines the steps for extracting high-quality DNA suitable for downstream amplicon and shotgun sequencing. It includes buffer preparation, lysis conditions, and cleanup methods.  
+[📄 View DNA Extraction Protocol](protocols/dna_extraction.html){target="_blank"}
+[⬇️ Download PDF](protocols/dna_extraction.pdf){target="_blank" .btn .btn-outline-primary}
+
+## Library preparation
+
+### 16S amplicon
+This document details PCR primer design, amplification conditions, and barcoding strategy specific to 16S rRNA gene sequencing. It is optimized for both Illumina and ONT platforms.  
+[📄 View 16S Amplicon Protocol](protocols/16S_protocol.html){target="_blank"}
+[⬇️ Download PDF](protocols/16S_protocol.pdf){target="_blank" .btn .btn-outline-primary}
+
+### 18S amplicon
+Our 18S workflow targets eukaryotic microbial communities with a universal primer pair and optimized thermal cycling. It also includes adapter ligation and cleanup.  
+[📄 View 18S Amplicon Protocol](protocols/18S_protocol.html){target="_blank"}
+[⬇️ Download PDF](protocols/18S_protocol.pdf){target="_blank" .btn .btn-outline-primary}
+
+### ITS amplicon
+This protocol targets fungal ITS regions using well-established primers. It includes PCR amplification and quality control steps tailored for environmental samples.  
+[📄 View ITS Amplicon Protocol](protocols/ITS_amplicon.html){target="_blank"}
+[⬇️ Download PDF](protocols/ITS_amplicon.pdf){target="_blank" .btn .btn-outline-primary}
+
+## Shotgun metagenomics protocol
+We use a PCR-free library preparation kit for shotgun metagenomic sequencing. The protocol describes DNA shearing, end repair, and adapter ligation for high-throughput platforms.  
+[📄 View Shotgun Protocol](protocols/shotgun_protocol.html){target="_blank"}
+[⬇️ Download PDF](protocols/shotgun_protocol.pdf){target="_blank" .btn .btn-outline-primary}
+
+## Data analysis
+This protocol covers raw sequence QC, host read removal, taxonomic profiling, and functional annotation. Tools and databases are listed with usage tips and links.  
+[📄 View Data Analysis Protocol](protocols/data_analysis.html){target="_blank"}

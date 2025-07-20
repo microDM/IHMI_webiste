@@ -12,32 +12,16 @@ website:
     left:
       - href: pages/about.qmd
         text: About
-      - text: Protocols
-        menu: 
-          - text: Sampling and transporation
-            href: pages/protocols/sampling.qmd
-          - text: DNA extraction
-            href: pages/protocols/dna_extraction.qmd
-          - text: 16S amplicon protocal
-            href: pages/protocols/16S_protocol.qmd
-          - text: 18S amplicon protocol
-            href: pages/protocols/18S_protocol.qmd
-          - text: ITS amplicon protocol
-            href: pages/protocols/ITS_amplicon.qmd
-          - text: Shotgun metagenomics protocol
-            href: pages/protocols/metagenomics.qmd
-          - text: Data analysis
-            href: pages/protocols/data_analysis.qmd
+      - href: pages/protocols.qmd 
+        text: Protocols
       - href: pages/data.qmd
         text: Data
       - text: Team
         menu:
           - text: Partner Institutes
             href: pages/team/institutes.qmd
-          - text: Investigators
-            href: pages/team/investigators.qmd
-          - text: Working groups
-            href: pages/team/working_groups.qmd
+          - text: People
+            href: pages/team/people.qmd
       - href: pages/gallery.qmd
         text: Gallery
 

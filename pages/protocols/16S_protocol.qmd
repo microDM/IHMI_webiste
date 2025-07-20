@@ -1,6 +1,8 @@
 ---
 title: "16S amplicon protocol"
-format: html
+format:
+  html: default
+  pdf: default
 ---
 
 ### PCR specifications
@@ -14,7 +16,7 @@ format: html
 ### **Primers**
 
 | ID | Primer sequence | Length |
-|-----------------|--------------------------------------|-----------------|
+|------------------|-------------------------------------|------------------|
 | V4_515F | <font color="red">TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG</font>GTGYCAGCMGCCGCGGTAA | 52 |
 | V4_806R | <font color="blue">GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG</font>GGACTACNVGGGTWTCTAAT | 54 |
 

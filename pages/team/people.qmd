@@ -1,7 +1,38 @@
 ---
-title: "Working groups"
-format: html
+title: ""
+format:
+  html:
+    page-layout: full
 ---
+
+## Scientific Coordinator
+
+-   **Dr. Suchita Ninawe**,Senior Adviser and Scientist H, Department of Biotechnology
+
+## DBT Administrative Scientist
+
+-   **Dr. Richi V. Mahajan**, Scientist D, Department of Biotechnology
+
+## Investigators
+
+```{r}
+#| message: true
+#| warning: true
+#| echo: false
+
+library(DT)
+df <- read.table(file = './investigators.csv',header = T,sep = ',')
+
+df$Name <- paste0("<a href='", df$URL, "'>",df$Name,"</a>")
+df$URL <- NULL
+DT::datatable(
+  df, escape = FALSE, options = list(
+    searching = FALSE, paging = FALSE, info = FALSE
+  )
+)
+```
+
+## Working groups
 
 | Group | Members |
 |------------------------------------|------------------------------------|
@@ -15,4 +46,3 @@ format: html
 | Data Analysis Group | Abhishek Gupta, Dattatray Mongad, Dhiraj Dhotre, Mitali Inamdar |
 | Biobanking Group | Aditi Deshpande, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah |
 
-: IHMI working groups
