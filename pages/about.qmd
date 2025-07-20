@@ -6,8 +6,28 @@ format:
 ---
 
 ::: {#about style="text-align: justify"}
-In the last decade preliminary analyses of microbiome influence on human health by several global studies (NIH Human Microbiome Project, British Gut Project, Canadian Microbiome Initiative, Dutch Microbiome Project, Finnish HELMi Cohort and such others) have opened several conjectures (iHMP, 2014; Del Savio et al., 2017; Korpela et al., 2019; Lopera-Maya et al., 2022; and Gacesa et al., 2022). Interestingly, these studies have also indicated that microbiota is sensitive to several intrinsic and extrinsic factors including but not limited to host genetics, dietary habits, age, geographic location, lifestyle, ethnicity (Yatsunenko et al. 2012; David et al. 2014; Bonder et al. 2016).
+India’s extraordinary mosaic of cuisines, climates, genetic backgrounds, and cultural traditions provides a rare window into human–microbe co-evolution. Yet, despite comprising nearly one-sixth of the global population, Indian communities remain vastly underrepresented in existing microbiome research.
+
+IHMI confronts this disparity by establishing the first comprehensive microbial reference for the Indian population. This baseline not only deepens our understanding of population-specific microbiome patterns but also unlocks new opportunities for personalized health strategies grounded in indigenous biological and cultural contexts.
 :::
+
+:::: {#progress}
+::: {style="text-align: justify; background-color: lightblue"}
+📊 Our Progress at a Glance
+
+💩 Stool Samples Collected    4,080
+
+🌐 Communities Covered        17
+
+🧬 Amplicon Libraries               10,125
+
+🔎 Metagenomes                       658
+
+🧍 Human Genomes                61
+
+🧫 High-Quality MAGs               4,990
+:::
+::::
 
 ### Vision
 

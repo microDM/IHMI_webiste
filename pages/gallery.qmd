@@ -1,6 +1,24 @@
 ---
-title: ""
+title: "Gallery"
 format: html
 ---
 
+**Documentary: IHMI in pipeline**
+
 {{< video https://www.youtube.com/embed/wo9vZccmqwc title="What is the CERN?" start="116" aspect-ratio="21x9" >}}
+
+------------------------------------------------------------------------
+
+**IHMI in snaps**
+
+::: {#fig-ihmi1 layout-ncol="2"}
+![Team IHMI](/assets/img_gallery/img1.png)
+
+![Kickstart meeting of IHMI](/assets/img_gallery/img4.png)
+:::
+
+::: {#fig-ihmi2 layout-ncol="2"}
+![IHMI sampling: Measuring heights of participants](/assets/img_gallery/img3.png)
+
+![IHMI sampling: Explaining tribals about the project](/assets/img_gallery/img6.png)
+:::
