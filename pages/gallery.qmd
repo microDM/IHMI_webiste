@@ -1,24 +1,44 @@
 ---
-title: "Gallery"
-format: html
+title: ""
+  
+format:
+  html:
+    fig-numbering: false
+    fig-cap-location: bottom
+    fig-align: center
+    css: ../styles.css
 ---
 
-**Documentary: IHMI in pipeline**
+::: text-center
+## **Documentary: IHMI in pipeline** {.text-center}
+:::
 
 {{< video https://www.youtube.com/embed/wo9vZccmqwc title="What is the CERN?" start="116" aspect-ratio="21x9" >}}
 
 ------------------------------------------------------------------------
 
-**IHMI in snaps**
-
-::: {#fig-ihmi1 layout-ncol="2"}
-![Team IHMI](/assets/img_gallery/img1.png)
-
-![Kickstart meeting of IHMI](/assets/img_gallery/img4.png)
+::: text-center
+## IHMI in snaps {.text-center}
 :::
 
-::: {#fig-ihmi2 layout-ncol="2"}
-![IHMI sampling: Measuring heights of participants](/assets/img_gallery/img3.png)
+::: {.img-center layout-ncol="2"}
+![Team IHMI](/assets/img_gallery/img1.png){.lightbox width="500" height="300"}
 
-![IHMI sampling: Explaining tribals about the project](/assets/img_gallery/img6.png)
+![Kickstart meeting of IHMI](/assets/img_gallery/img4.png){.lightbox width="500" height="300"}
+:::
+
+::: {.img-center}
+![Community engagement activities conducted in village setting to brief about the objectives and procedures of the project.](/assets/img_gallery/img9.png){.lightbox width="700" height="400"}
+:::
+
+::: {.img-center}
+![Workshop & Training for ‘Data and Sample Collection Strategies’ organized for all the partner institutes ,18th-20th Jan.2021](/assets/img_gallery/img10.png){.lightbox width="700" height="400"}
+:::
+
+::: {.img-center}
+![](/assets/img_gallery/img11.png){.lightbox width="700" height="400"}
+:::
+
+::: {.img-center}
+![](/assets/img_gallery/img12.png){.lightbox width="700" height="400"}
 :::

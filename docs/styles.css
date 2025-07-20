@@ -176,3 +176,10 @@ h1, h2, h3, h4 {
 .column {
   flex: 50%;
 }
+
+.img-center {
+  text-align: center;
+}
+.img-center img {
+  display: inline-block;
+}

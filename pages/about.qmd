@@ -11,24 +11,6 @@ India’s extraordinary mosaic of cuisines, climates, genetic backgrounds, and c
 IHMI confronts this disparity by establishing the first comprehensive microbial reference for the Indian population. This baseline not only deepens our understanding of population-specific microbiome patterns but also unlocks new opportunities for personalized health strategies grounded in indigenous biological and cultural contexts.
 :::
 
-:::: {#progress}
-::: {style="text-align: justify; background-color: lightblue"}
-📊 Our Progress at a Glance
-
-💩 Stool Samples Collected    4,080
-
-🌐 Communities Covered        17
-
-🧬 Amplicon Libraries               10,125
-
-🔎 Metagenomes                       658
-
-🧍 Human Genomes                61
-
-🧫 High-Quality MAGs               4,990
-:::
-::::
-
 ### Vision
 
 ::: {#vision style="text-align: justify"}
