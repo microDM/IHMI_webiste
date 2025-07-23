@@ -13,6 +13,23 @@ format:
 
 -   **Dr. Richi V. Mahajan**, Scientist D, Department of Biotechnology
 
+## Partner Institutes
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+library(DT)
+df <- read.table('./institutes.csv',header = T,sep = ',')
+df$Name <- paste0("<a href='", df$URL, "'>",df$Name,"</a>")
+df$URL <- NULL
+DT::datatable(
+  df, escape = FALSE, options = list(
+    searching = FALSE, paging = FALSE, info = FALSE
+  )
+)
+```
+
 ## Investigators
 
 ```{r}
@@ -35,7 +52,7 @@ DT::datatable(
 ## Working groups
 
 | Group | Members |
-|----|----|
+|------------------------------------|------------------------------------|
 | Conceptualization and project writing | Abhijit Kulkarni, Dhiraj Dhotre, Sanjay Juvekar, Shantanu Ozarkar, Shreyas Kumbhare, Vilas Sinkar, Yogesh Shouche |
 | Project coordination and administration group | Anand Krishnan, Balakrishnan S Ramakrishna, Dhiraj Agarwal, Dhiraj Dhotre, Girish Tillu, Govind Makharia, Indira Devi Sarangthem, John P Mechenro, Mahima Gubani, Omkar Godse, Sanjay Juvekar, Shantanu Ozarkar, Simmy Frankenstein, Subrahmanya Kumar Kukkupuni, Varun Shah, Vineet Ahuja, Yogesh Shouche |
 | Ayurvedic Prakriti Assessment | Sanket V Sharma, Sumit Salunke, Venkatesh Shankar Anthropological Assessment: Akanksha Choudhari, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Ng. Ngashangva, Simmy Frankenstein, Vivek Pakhare, Y. Randhir Babu Singh |

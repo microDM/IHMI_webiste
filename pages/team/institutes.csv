@@ -1,9 +1,9 @@
-Name,Location,Role,URL
-National Centre for Cell Science,"Pune, India",,https://www.nccs.res.in/
-All India Institute of Medical Sciences,"New Delhi, India",,https://www.aiims.edu/index.php/en
-"Dept of Anthropology, Savitribai Phule Pune University","Pune, India",,http://www.unipune.ac.in/dept/mental_moral_and_social_science/anthropology/default.htm
-"Interdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University","Pune, India",,http://www.unipune.ac.in/snc/school_of_health_sciences/default.htm
-Institute of Bioresources and Sustainable Development,"Imphal, India",,https://ibsd.gov.in/ibsd/home/index.php/index
-SRM Institutes for Medical Science,"Chennai, India",,https://medical.srmist.edu.in/
-The University of Transdisciplinary Health Sciences and Technology,"Bangalore, India",,https://www.tdu.edu.in/
-"KEM Hospital Research Centre, Vadu ","Vadu, Pune, India",,https://www.kemhrcvadu.org/
+Name,Location,URL
+National Centre for Cell Science,"Pune, India",https://www.nccs.res.in/
+All India Institute of Medical Sciences,"New Delhi, India",https://www.aiims.edu/index.php/en
+"Dept of Anthropology, Savitribai Phule Pune University","Pune, India",http://www.unipune.ac.in/dept/mental_moral_and_social_science/anthropology/default.htm
+"Interdisciplinary School of Health Sciences (ISHS), Savitribai Phule Pune University","Pune, India",http://www.unipune.ac.in/snc/school_of_health_sciences/default.htm
+Institute of Bioresources and Sustainable Development,"Imphal, India",https://ibsd.gov.in/ibsd/home/index.php/index
+SRM Institutes for Medical Science,"Chennai, India",https://medical.srmist.edu.in/
+The University of Transdisciplinary Health Sciences and Technology,"Bangalore, India",https://www.tdu.edu.in/
+"KEM Hospital Research Centre, Vadu ","Vadu, Pune, India",https://www.kemhrcvadu.org/

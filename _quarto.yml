@@ -16,12 +16,8 @@ website:
         text: Protocols
       - href: pages/data.qmd
         text: Data
-      - text: Team
-        menu:
-          - text: Partner Institutes
-            href: pages/team/institutes.qmd
-          - text: People
-            href: pages/team/people.qmd
+      - text: People
+        href: pages/team/people.qmd
       - href: pages/gallery.qmd
         text: Gallery
 
