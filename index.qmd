@@ -69,6 +69,4 @@ library(kableExtra)
 
 ### IHMI Documentary
 
-{{< video https://www.youtube.com/embed/wo9vZccmqwc title="What is the CERN?" start="116" aspect-ratio="15x9" >}}
-
-Department of Biotechnology, Ministry of Science and Technology, Government of India. Sanction Order No.: BT/PR23968/BRB/10/1602/2017 dated 9^th^ March 2020
+{{< video https://youtu.be/CcKmH3aTekU title="Indian Human Microbiome Initiative (IHMI)" start="116" aspect-ratio="15x9" >}}

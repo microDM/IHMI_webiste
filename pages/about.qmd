@@ -14,21 +14,13 @@ IHMI confronts this disparity by establishing the first comprehensive microbial 
 ### Vision
 
 ::: {#vision style="text-align: justify"}
-Bridging the gap in deciphering the global gut microbiome signatures of health
-
-or
-
-Expanding the human microbiome reference map
+To position India at the forefront of global microbiome science by unveiling its unique microbial heritage and enabling transformative advances in personalized nutrition, preventive health, and microbiome therapeutics rooted in the country's unparalleled genetic, cultural, and ecological diversity.
 :::
 
 ### Mission
 
 ::: {#mission style="text-align: justify"}
-The Indian Human Microbiome Initiative (IHMI) project is taxonomic and functional cartography of the unparalleled ethnic and dietary spectrum associated Indian Gut Microbiome
-
-or
-
-The Indian Human Microbiome Initiative (IHMI) project is a pioneering effort to characterize microbial diversity across ethnically and dietarily distinct communities
+To comprehensively map and characterize the diverse gut microbiome of Indian endogamous and tribal populations through a multidisciplinary, culturally contextualized, and scientifically rigorous approach. IHMI aims to establish a national microbiome reference that integrates dietary, ecological, genomic, metagenomic and Ayurvedic knowledge to empower precision healthcare and microbiome-based innovations tailored to the Indian population.
 :::
 
 ### Need for mapping Indian Microbiome

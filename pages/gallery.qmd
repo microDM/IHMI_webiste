@@ -1,6 +1,6 @@
 ---
-title: ""
-  
+title: "Gallery"
+
 format:
   html:
     fig-numbering: false
@@ -13,7 +13,7 @@ format:
 ## **Documentary: IHMI in pipeline** {.text-center}
 :::
 
-{{< video https://www.youtube.com/embed/wo9vZccmqwc title="What is the CERN?" start="116" aspect-ratio="21x9" >}}
+{{< video https://www.youtube.com/watch?v=CcKmH3aTekU title="Indian Human Microbiome Initiative (IHMI)" start="116" aspect-ratio="21x9" >}}
 
 ------------------------------------------------------------------------
 
@@ -27,18 +27,18 @@ format:
 ![Kickstart meeting of IHMI](/assets/img_gallery/img4.png){.lightbox width="500" height="300"}
 :::
 
-::: {.img-center}
+::: img-center
 ![Community engagement activities conducted in village setting to brief about the objectives and procedures of the project.](/assets/img_gallery/img9.png){.lightbox width="700" height="400"}
 :::
 
-::: {.img-center}
+::: img-center
 ![Workshop & Training for ‘Data and Sample Collection Strategies’ organized for all the partner institutes ,18th-20th Jan.2021](/assets/img_gallery/img10.png){.lightbox width="700" height="400"}
 :::
 
-::: {.img-center}
+::: img-center
 ![](/assets/img_gallery/img11.png){.lightbox width="700" height="400"}
 :::
 
-::: {.img-center}
+::: img-center
 ![](/assets/img_gallery/img12.png){.lightbox width="700" height="400"}
 :::

@@ -58,7 +58,6 @@
 }
 
 .logo-row img {
-  height: 80px;
   object-fit: contain;
   flex-shrink: 0;              /* Prevent logos from shrinking */
 }
@@ -182,4 +181,8 @@ h1, h2, h3, h4 {
 }
 .img-center img {
   display: inline-block;
+}
+
+.quarto-title-block { 
+  display: none; 
 }

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Indian Human Microbiome Initiative (IHMI)",
     "section": "",
-    "text": "The Indian Human Microbiome Initiative (IHMI) is a pioneering national effort to study the microbial landscape of India’s richly varied communities. By sampling over 4,080 healthy individuals from 17 culturally and ecologically distinct groups, IHMI offers the first large-scale insight into how traditional diets, regional environments, and genetic ancestry influence gut microbial ecosystems.\nIHMI represents a foundational framework for advancing global microbiome science by systematically characterizing population-specific microbial signatures from an underrepresented region. It aims to inform precision nutrition and microbiome-guided healthcare solutions tailored specifically to Indian populations bridging a major representation gap in international microbiome studies.\n\n\n\n\n\n4,080#Samples\n\n\n17#Communities\n\n\n10,125#Amplicon Libraries\n\n\n658#Metagenomes\n\n\n61#Human Genomes\n\n\n4,990#HQ-MAGs\n\n\n\n\n\n\n\n\nIHMI Documentary\n\nDepartment of Biotechnology, Ministry of Science and Technology, Government of India. Sanction Order No.: BT/PR23968/BRB/10/1602/2017 dated 9th March 2020"
+    "text": "The Indian Human Microbiome Initiative (IHMI) is a pioneering national effort to study the microbial landscape of India’s richly varied communities. By sampling over 4,080 healthy individuals from 17 culturally and ecologically distinct groups, IHMI offers the first large-scale insight into how traditional diets, regional environments, and genetic ancestry influence gut microbial ecosystems.\nIHMI represents a foundational framework for advancing global microbiome science by systematically characterizing population-specific microbial signatures from an underrepresented region. It aims to inform precision nutrition and microbiome-guided healthcare solutions tailored specifically to Indian populations bridging a major representation gap in international microbiome studies.\n\n\n\n\n\n4,080#Samples\n\n\n17#Communities\n\n\n10,125#Amplicon Libraries\n\n\n658#Metagenomes\n\n\n61#Human Genomes\n\n\n4,990#HQ-MAGs\n\n\n\n\n\n\n\n\nIHMI Documentary"
   },
   {
     "objectID": "pages/team/investigators/girish_tillu.html",
@@ -51,49 +51,49 @@
   {
     "objectID": "pages/data.html",
     "href": "pages/data.html",
-    "title": "IHMI",
+    "title": "Data",
     "section": "",
     "text": "IHMI presents the first large scale effort to generate a reference Indian microbiome dataset.\n\n10,125 amplicon libraries sequenced for three domains with a total of 1619.28 billion base pairs from 4080 individuals.\n6.45 tera base pairs of good quality shotgun metagenomic sequencing data from 658 individuals. A total of 53,496 MAGs were identified including the identification of 92 novel MAGs further enriching the microbiome reference resource.\nThis project also catalogued an extensive collection of more than 350 anaerobically isolated gut bacteria some of which exhibit potentially novel taxonomy and probiotic properties.\nData are securely stored on a dedicated server at the Indian Biological Data Centre (IBDC), located at the Regional Centre for Biotechnology (RCB) in Faridabad, India.\nStool samples have been biobanked at AIIMS and SRMIMS to ensure long term access for future research.\nMetagenomic DNA of all samples have been biobanked at NCCS.\nA total of 61 individuals have been characterized for genomic, dietary and microbiome data representing the overlap between GenomeIndia and IHMI project.\n\n\n\nData Access:\nData Access Please reach out to us through IBDC request/access form."
   },
   {
     "objectID": "pages/protocols.html",
     "href": "pages/protocols.html",
-    "title": "IHMI",
+    "title": "Protocols",
     "section": "",
     "text": "We follow standardized procedures for field sample collection to ensure minimal contamination and consistency across samples. The linked protocol describes required materials, collection techniques, and storage guidelines.\n📄 View Sampling Protocol ⬇️ Download PDF"
   },
   {
     "objectID": "pages/protocols.html#sampling-and-transporation",
     "href": "pages/protocols.html#sampling-and-transporation",
-    "title": "IHMI",
+    "title": "Protocols",
     "section": "",
     "text": "We follow standardized procedures for field sample collection to ensure minimal contamination and consistency across samples. The linked protocol describes required materials, collection techniques, and storage guidelines.\n📄 View Sampling Protocol ⬇️ Download PDF"
   },
   {
     "objectID": "pages/protocols.html#dna-extraction",
     "href": "pages/protocols.html#dna-extraction",
-    "title": "IHMI",
+    "title": "Protocols",
     "section": "DNA extraction",
     "text": "DNA extraction\nThis protocol outlines the steps for extracting high-quality DNA suitable for downstream amplicon and shotgun sequencing. It includes buffer preparation, lysis conditions, and cleanup methods.\n📄 View DNA Extraction Protocol ⬇️ Download PDF"
   },
   {
     "objectID": "pages/protocols.html#library-preparation",
     "href": "pages/protocols.html#library-preparation",
-    "title": "IHMI",
+    "title": "Protocols",
     "section": "Library preparation",
     "text": "Library preparation\n\n16S amplicon\nThis document details PCR primer design, amplification conditions, and barcoding strategy specific to 16S rRNA gene sequencing. It is optimized for both Illumina and ONT platforms.\n📄 View 16S Amplicon Protocol ⬇️ Download PDF\n\n\n18S amplicon\nOur 18S workflow targets eukaryotic microbial communities with a universal primer pair and optimized thermal cycling. It also includes adapter ligation and cleanup.\n📄 View 18S Amplicon Protocol ⬇️ Download PDF\n\n\nITS amplicon\nThis protocol targets fungal ITS regions using well-established primers. It includes PCR amplification and quality control steps tailored for environmental samples.\n📄 View ITS Amplicon Protocol ⬇️ Download PDF"
   },
   {
     "objectID": "pages/protocols.html#shotgun-metagenomics-protocol",
     "href": "pages/protocols.html#shotgun-metagenomics-protocol",
-    "title": "IHMI",
+    "title": "Protocols",
     "section": "Shotgun metagenomics protocol",
     "text": "Shotgun metagenomics protocol\nWe use a PCR-free library preparation kit for shotgun metagenomic sequencing. The protocol describes DNA shearing, end repair, and adapter ligation for high-throughput platforms.\n📄 View Shotgun Protocol ⬇️ Download PDF"
   },
   {
     "objectID": "pages/protocols.html#data-analysis",
     "href": "pages/protocols.html#data-analysis",
-    "title": "IHMI",
+    "title": "Protocols",
     "section": "Data analysis",
     "text": "Data analysis\nThis protocol covers raw sequence QC, host read removal, taxonomic profiling, and functional annotation. Tools and databases are listed with usage tips and links.\n📄 View Data Analysis Protocol"
   },
@@ -151,40 +151,40 @@
     "href": "pages/about.html",
     "title": "About",
     "section": "",
-    "text": "India’s extraordinary mosaic of cuisines, climates, genetic backgrounds, and cultural traditions provides a rare window into human–microbe co-evolution. Yet, despite comprising nearly one-sixth of the global population, Indian communities remain vastly underrepresented in existing microbiome research.\nIHMI confronts this disparity by establishing the first comprehensive microbial reference for the Indian population. This baseline not only deepens our understanding of population-specific microbiome patterns but also unlocks new opportunities for personalized health strategies grounded in indigenous biological and cultural contexts.\n\n\nVision\n\nBridging the gap in deciphering the global gut microbiome signatures of health\nor\nExpanding the human microbiome reference map\n\n\n\nMission\n\nThe Indian Human Microbiome Initiative (IHMI) project is taxonomic and functional cartography of the unparalleled ethnic and dietary spectrum associated Indian Gut Microbiome\nor\nThe Indian Human Microbiome Initiative (IHMI) project is a pioneering effort to characterize microbial diversity across ethnically and dietarily distinct communities\n\n\n\nNeed for mapping Indian Microbiome\n\n\nIndia has huge diet, lifestyle and ethnic diversity and thus is a perfect model to study association of ‘Genetics, biogeography, lifestyle, ethnicity and diet with Microbiome’.\nIncreasing the success of FMT in Indian patients\nMicrobiota based metabolic disease models developed in one location fail in other location and hence cannot be extrapolated (He et al., 2018).\nCorrelating ‘-omics’ based gut microbiome concepts with traditional Indian Ayurvedic concepts.\nCharacterization of microbiome from autochthonous tribal populations which are not influenced by modernization and changing lifestyle may lead to identification of many unique and novel microbes.\nDoes Indian population have a new enterotype?\n\n\n\n\nKey Gaps/Questions\n\n\nDetermining the baseline gut microbiome data of Indian endogamous groups having unparalleled varied dietary and lifestyle patterns.\nWhat are the unique features of microbiota of Indian population? Is it possible to define the core Indian microbiome or their will be several core Indian Microbiome(s) ?\nHow microbiota changes across the population of India including tribal population living in their natural habitat and following traditional practices?\nHow does the diet, lifestyle and age influence the gut microbial community composition and structure?\nIs there any association between microbiome and three distinct Ayurvedic Prakriti types?\nUnderstanding the temporal variations in gut microbiome."
+    "text": "India’s extraordinary mosaic of cuisines, climates, genetic backgrounds, and cultural traditions provides a rare window into human–microbe co-evolution. Yet, despite comprising nearly one-sixth of the global population, Indian communities remain vastly underrepresented in existing microbiome research.\nIHMI confronts this disparity by establishing the first comprehensive microbial reference for the Indian population. This baseline not only deepens our understanding of population-specific microbiome patterns but also unlocks new opportunities for personalized health strategies grounded in indigenous biological and cultural contexts.\n\n\nVision\n\nTo position India at the forefront of global microbiome science by unveiling its unique microbial heritage and enabling transformative advances in personalized nutrition, preventive health, and microbiome therapeutics rooted in the country’s unparalleled genetic, cultural, and ecological diversity.\n\n\n\nMission\n\nTo comprehensively map and characterize the diverse gut microbiome of Indian endogamous and tribal populations through a multidisciplinary, culturally contextualized, and scientifically rigorous approach. IHMI aims to establish a national microbiome reference that integrates dietary, ecological, genomic, metagenomic and Ayurvedic knowledge to empower precision healthcare and microbiome-based innovations tailored to the Indian population.\n\n\n\nNeed for mapping Indian Microbiome\n\n\nIndia has huge diet, lifestyle and ethnic diversity and thus is a perfect model to study association of ‘Genetics, biogeography, lifestyle, ethnicity and diet with Microbiome’.\nIncreasing the success of FMT in Indian patients\nMicrobiota based metabolic disease models developed in one location fail in other location and hence cannot be extrapolated (He et al., 2018).\nCorrelating ‘-omics’ based gut microbiome concepts with traditional Indian Ayurvedic concepts.\nCharacterization of microbiome from autochthonous tribal populations which are not influenced by modernization and changing lifestyle may lead to identification of many unique and novel microbes.\nDoes Indian population have a new enterotype?\n\n\n\n\nKey Gaps/Questions\n\n\nDetermining the baseline gut microbiome data of Indian endogamous groups having unparalleled varied dietary and lifestyle patterns.\nWhat are the unique features of microbiota of Indian population? Is it possible to define the core Indian microbiome or their will be several core Indian Microbiome(s) ?\nHow microbiota changes across the population of India including tribal population living in their natural habitat and following traditional practices?\nHow does the diet, lifestyle and age influence the gut microbial community composition and structure?\nIs there any association between microbiome and three distinct Ayurvedic Prakriti types?\nUnderstanding the temporal variations in gut microbiome."
   },
   {
     "objectID": "pages/team/people.html",
     "href": "pages/team/people.html",
-    "title": "IHMI",
+    "title": "People",
     "section": "",
     "text": "Dr. Suchita Ninawe,Senior Adviser and Scientist H, Department of Biotechnology"
   },
   {
     "objectID": "pages/team/people.html#scientific-coordinator",
     "href": "pages/team/people.html#scientific-coordinator",
-    "title": "IHMI",
+    "title": "People",
     "section": "",
     "text": "Dr. Suchita Ninawe,Senior Adviser and Scientist H, Department of Biotechnology"
   },
   {
     "objectID": "pages/team/people.html#dbt-administrative-scientist",
     "href": "pages/team/people.html#dbt-administrative-scientist",
-    "title": "IHMI",
+    "title": "People",
     "section": "DBT Administrative Scientist",
     "text": "DBT Administrative Scientist\n\nDr. Richi V. Mahajan, Scientist D, Department of Biotechnology"
   },
   {
     "objectID": "pages/team/people.html#investigators",
     "href": "pages/team/people.html#investigators",
-    "title": "IHMI",
+    "title": "People",
     "section": "Investigators",
     "text": "Investigators"
   },
   {
     "objectID": "pages/team/people.html#working-groups",
     "href": "pages/team/people.html#working-groups",
-    "title": "IHMI",
+    "title": "People",
     "section": "Working groups",
     "text": "Working groups\n\n\n\n\n\n\n\nGroup\nMembers\n\n\n\n\nConceptualization and project writing\nAbhijit Kulkarni, Dhiraj Dhotre, Sanjay Juvekar, Shantanu Ozarkar, Shreyas Kumbhare, Vilas Sinkar, Yogesh Shouche\n\n\nProject coordination and administration group\nAnand Krishnan, Balakrishnan S Ramakrishna, Dhiraj Agarwal, Dhiraj Dhotre, Girish Tillu, Govind Makharia, Indira Devi Sarangthem, John P Mechenro, Mahima Gubani, Omkar Godse, Sanjay Juvekar, Shantanu Ozarkar, Simmy Frankenstein, Subrahmanya Kumar Kukkupuni, Varun Shah, Vineet Ahuja, Yogesh Shouche\n\n\nAyurvedic Prakriti Assessment\nSanket V Sharma, Sumit Salunke, Venkatesh Shankar Anthropological Assessment: Akanksha Choudhari, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Ng. Ngashangva, Simmy Frankenstein, Vivek Pakhare, Y. Randhir Babu Singh\n\n\nSampling group\nAditi Deshpande, Akanksha Choudhari, Ashwini Hagir, Chaitali Choudhari, Gauri Bhide, John P Mechenro, L. Mohindro Singh, Mahima Gulbani, Mitali Inamdar, Mohak Gujare, Ng. Ngashangva, Omkar Godse, Sanket V Sharma, Shubham Gurav, Simmy Frankenstein, Sumit Salunke, Swapnil Bodkhe, Venkatesh Shankar, Vivek Pakhare, Y. Randhir Babu Singh\n\n\nMicrobial Isolation Group\nAshwini Hagir, Mitali Inamdar, Namrata Jiya\n\n\nNGS Sequencing Group\nAbhishek Gupta, Aditi Deshpande, Arinjay Gire, Ashwini Hagir, Mitali Inamdar, Mohak Gujare, Namrata Jiya, Shivang Bhanushali, Shubham Gurav, Swapnil Bodkhe\n\n\nData Curation Group\nAditi Deshpande, Arinjay Gire, Chaitali Choudhari, Dhiraj Agarwal, Dhiraj Dhotre, Himangi Lubree, Mitali Inamdar, Prajakta Pakhale, Shantanu Ozarkar, Sonam Malik, Sukanya Dange, Varun Shah\n\n\nData Analysis Group\nAbhishek Gupta, Dattatray Mongad, Dhiraj Dhotre, Mitali Inamdar\n\n\nBiobanking Group\nAditi Deshpande, Arinjay Gire, John P Mechenro, Mitali Inamdar, Varun Shah"
   },
@@ -240,15 +240,71 @@
   {
     "objectID": "pages/gallery.html#ihmi-in-snaps",
     "href": "pages/gallery.html#ihmi-in-snaps",
-    "title": "IHMI",
+    "title": "Gallery",
     "section": "IHMI in snaps",
     "text": "IHMI in snaps"
   },
   {
     "objectID": "pages/team/people.html#partner-institutes",
     "href": "pages/team/people.html#partner-institutes",
-    "title": "IHMI",
+    "title": "People",
     "section": "Partner Institutes",
     "text": "Partner Institutes"
+  },
+  {
+    "objectID": "pages/gallery.html#documentary-ihmi-in-pipeline",
+    "href": "pages/gallery.html#documentary-ihmi-in-pipeline",
+    "title": "Gallery",
+    "section": "Documentary: IHMI in pipeline",
+    "text": "Documentary: IHMI in pipeline"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html",
+    "href": "pages/protocols/shotgun_protocol.html",
+    "title": "Metagenomic library preparation",
+    "section": "",
+    "text": "DNA Library Prep – Illumina DNA Prep Kit\nTarget insert size: ~150 bp\nFinal library size: ~600 bp (for 2×150 bp reads)\nDNA input: 150 ng per sample"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html#dna-quantification-preparation",
+    "href": "pages/protocols/shotgun_protocol.html#dna-quantification-preparation",
+    "title": "Metagenomic library preparation",
+    "section": "DNA Quantification & Preparation",
+    "text": "DNA Quantification & Preparation\n\nQuantify DNA using Qubit dsDNA HS Assay\nCheck purity: A260/280 = 1.8–2.0\nDilute 150 ng DNA in 30 µL 10 mM Tris-HCl (pH 7.5–8.5)"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html#tagmentation",
+    "href": "pages/protocols/shotgun_protocol.html#tagmentation",
+    "title": "Metagenomic library preparation",
+    "section": "Tagmentation",
+    "text": "Tagmentation\n\nPrepare Tagmentation Master Mix:\n\n11 µL BLT (bead-linked transposomes)\n11 µL TB1 (tagmentation buffer)\n\nAdd 20 µL master mix to 30 µL DNA\nMix well, seal plate\nThermocycle: 55°C for 15 min, hold at 10°C"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html#post-tagmentation-cleanup",
+    "href": "pages/protocols/shotgun_protocol.html#post-tagmentation-cleanup",
+    "title": "Metagenomic library preparation",
+    "section": "Post-Tagmentation Cleanup",
+    "text": "Post-Tagmentation Cleanup\n\nAdd 10 µL TSB (Stop Buffer), pipette to mix\nThermocycle: 37°C for 15 min, hold at 10°C\nPlace on magnetic stand, discard supernatant\nWash beads twice with 100 µL TWB\nLeave final wash in wells (do not dry)"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html#pcr-amplification-5-cycles",
+    "href": "pages/protocols/shotgun_protocol.html#pcr-amplification-5-cycles",
+    "title": "Metagenomic library preparation",
+    "section": "PCR Amplification (5 Cycles)",
+    "text": "PCR Amplification (5 Cycles)\n\nPrepare PCR Master Mix per sample:\n\n22 µL EPM\n22 µL Nuclease-free water\n\nAdd 40 µL master mix to beads\nAdd 10 µL pre-paired index adapters (i5+i7)\nThermocycle:\n\n68°C 3 min\n98°C 3 min\n5 cycles: 98°C 45s, 62°C 30s, 68°C 2 min\n68°C 1 min → Hold at 10°C"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html#library-cleanup-ampure-beads",
+    "href": "pages/protocols/shotgun_protocol.html#library-cleanup-ampure-beads",
+    "title": "Metagenomic library preparation",
+    "section": "Library Cleanup (Ampure beads)",
+    "text": "Library Cleanup (Ampure beads)\n\nTransfer 45 µL PCR product to new plate\nAdd 40 µL water + 45 µL SPB → mix, incubate 5 min\nTransfer 125 µL to new plate with 15 µL SPB → mix, incubate 5 min\nWash twice with 200 µL 80% EtOH\nAir dry beads for 5 min\nElute in 32 µL RSB, transfer 30 µL clean library"
+  },
+  {
+    "objectID": "pages/protocols/shotgun_protocol.html#library-qc-pooling",
+    "href": "pages/protocols/shotgun_protocol.html#library-qc-pooling",
+    "title": "Metagenomic library preparation",
+    "section": "Library QC & Pooling",
+    "text": "Library QC & Pooling\n\nTapestation for analyzing the size of library\nQubit for quantification of the final pooled library."
   }
 ]

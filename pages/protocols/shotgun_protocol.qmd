@@ -1,0 +1,66 @@
+---
+title: "Metagenomic library preparation"
+format:
+  html: default
+  pdf: default
+---
+
+**DNA Library Prep – Illumina DNA Prep Kit**
+
+Target insert size: \~150 bp
+
+Final library size: \~600 bp (for 2×150 bp reads)
+
+DNA input: 150 ng per sample
+
+## DNA Quantification & Preparation
+
+-   Quantify DNA using Qubit dsDNA HS Assay
+-   Check purity: A260/280 = 1.8–2.0
+-   Dilute 150 ng DNA in 30 µL 10 mM Tris-HCl (pH 7.5–8.5)
+
+## Tagmentation
+
+-   Prepare Tagmentation Master Mix:
+    -   11 µL BLT (bead-linked transposomes)
+    -   11 µL TB1 (tagmentation buffer)
+-   Add 20 µL master mix to 30 µL DNA
+-   Mix well, seal plate
+-   Thermocycle: 55°C for 15 min, hold at 10°C
+
+## Post-Tagmentation Cleanup
+
+-   Add 10 µL TSB (Stop Buffer), pipette to mix
+-   Thermocycle: 37°C for 15 min, hold at 10°C
+-   Place on magnetic stand, discard supernatant
+-   Wash beads twice with 100 µL TWB
+-   Leave final wash in wells (do not dry)
+
+## PCR Amplification (5 Cycles)
+
+-   Prepare PCR Master Mix per sample:
+    -   22 µL EPM
+    -   22 µL Nuclease-free water
+-   Add 40 µL master mix to beads
+-   Add 10 µL pre-paired index adapters (i5+i7)
+-   Thermocycle:
+    -   68°C 3 min
+    -   98°C 3 min
+    -   5 cycles: 98°C 45s, 62°C 30s, 68°C 2 min
+    -   68°C 1 min → Hold at 10°C
+
+## Library Cleanup (Ampure beads)
+
+-   Transfer 45 µL PCR product to new plate
+-   Add 40 µL water + 45 µL SPB → mix, incubate 5 min
+-   Transfer 125 µL to new plate with 15 µL SPB → mix, incubate 5 min
+-   Wash twice with 200 µL 80% EtOH
+-   Air dry beads for 5 min
+-   Elute in 32 µL RSB, transfer 30 µL clean library
+
+## Library QC & Pooling
+
+-   Tapestation for analyzing the size of library
+-   Qubit for quantification of the final pooled library.
+
+## 
