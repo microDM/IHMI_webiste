@@ -13,6 +13,10 @@ format:
 
 -   **Dr. Richi V. Mahajan**, Scientist D, Department of Biotechnology
 
+## Principal Investigator
+
+-   **Dr. Dhiraj Dhotre**, Scientist D, NCCS, Pune
+
 ## Partner Institutes
 
 ```{r}
